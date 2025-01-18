@@ -1,0 +1,834 @@
+CP,NOM,ORGANISME,Type,Public,SOUS_TYPE_THEMATIQUE,COMMUNE,LATTI,LONGI,codeReg,nomReg,numdep,nomdept,GCD
+60000,Centre de gestion de la fonction publique territoriale de L oise - Service Archives,,Archives,,Archives,BEAUVAIS,49.44460717,2.10284908,32,Hauts-de-France,60,OISE,2 - Centres urbains intermédiaires
+60000,Commune de Beauvais - Service Archives-Documentation,,Archives,,Archives,BEAUVAIS,49.42771062,2.08154663,32,Hauts-de-France,60,OISE,2 - Centres urbains intermédiaires
+60000,Archives départementales de L oise,,Archives,,Archives,BEAUVAIS,49.44271948,2.09884219,32,Hauts-de-France,60,OISE,2 - Centres urbains intermédiaires
+69310,Commune de Pierre-Bénite - Archives municipales,,Archives,,Archives,OULLINS-PIERRE-BÉNITE,45.70404307,4.82578288,84,Auvergne-Rhône-Alpes,69,RHONE,1 - Grands centres urbains
+69740,Commune de Genas - Archives municipales,,Archives,,Archives,GENAS,45.73251454,5.00550994,84,Auvergne-Rhône-Alpes,69,RHONE,4 - Ceintures urbaines
+69100,Commune de Villeurbanne - Archives municipales,,Archives,,Archives,VILLEURBANNE,45.75947859,4.88420581,84,Auvergne-Rhône-Alpes,69,RHONE,1 - Grands centres urbains
+69200,Commune de Vénissieux - Service Documentation-Archives,,Archives,,Archives,VÉNISSIEUX,45.69697417,4.88532841,84,Auvergne-Rhône-Alpes,69,RHONE,1 - Grands centres urbains
+69600,Commune D oullins - Archives communales,,Archives,,Archives,OULLINS-PIERRE-BÉNITE,45.71419319,4.80688655,84,Auvergne-Rhône-Alpes,69,RHONE,1 - Grands centres urbains
+69520,Commune de Grigny - Archives municipales,,Archives,,Archives,GRIGNY,45.60837167,4.7896362,84,Auvergne-Rhône-Alpes,69,RHONE,2 - Centres urbains intermédiaires
+69150,Commune de Décines-Chapieu - Archives municipales,,Archives,,Archives,DÉCINES-CHARPIEU,45.76850126,4.956942,84,Auvergne-Rhône-Alpes,69,RHONE,1 - Grands centres urbains
+69140,Commune de Rillieux-La-Pape - Archives municipales,,Archives,,Archives,RILLIEUX-LA-PAPE,45.82105174,4.89712022,84,Auvergne-Rhône-Alpes,69,RHONE,1 - Grands centres urbains
+69300,Commune de Caluire-Et-Cuire - Service des Archives,,Archives,,Archives,CALUIRE-ET-CUIRE,45.79715651,4.84304746,84,Auvergne-Rhône-Alpes,69,RHONE,1 - Grands centres urbains
+69680,Commune de Chassieu - Service des Archives Et de La Documentation,,Archives,,Archives,CHASSIEU,45.73912533,4.9711415,84,Auvergne-Rhône-Alpes,69,RHONE,1 - Grands centres urbains
+69540,Commune D irigny - Archives communales,,Archives,,Archives,IRIGNY,45.67304927,4.8223256,84,Auvergne-Rhône-Alpes,69,RHONE,1 - Grands centres urbains
+69700,Commune de Givors - Archives municipales,,Archives,,Archives,GIVORS,45.5887515,4.76938838,84,Auvergne-Rhône-Alpes,69,RHONE,2 - Centres urbains intermédiaires
+69170,Commune de Tarare - Service Archives Documentation,,Archives,,Archives,TARARE,45.89521573,4.43369419,84,Auvergne-Rhône-Alpes,69,RHONE,2 - Centres urbains intermédiaires
+69500,Commune de Bron - Service Documentation Et Archives,,Archives,,Archives,BRON,45.73381604,4.90924994,84,Auvergne-Rhône-Alpes,69,RHONE,1 - Grands centres urbains
+69400,Commune de Villefranche-Sur-Saône - Archives municipales,,Archives,,Archives,VILLEFRANCHE-SUR-SAÔNE,45.984802,4.734051,84,Auvergne-Rhône-Alpes,69,RHONE,2 - Centres urbains intermédiaires
+32700,Commune de Lectoure - Archives municipales,,Archives,,Archives,LECTOURE,43.93343067,0.62398725,76,Occitanie,32,GERS,5 - Bourgs ruraux
+50000,Archives départementales de La Manche,,Archives,,Archives,SAINT-LÔ,49.11580735,-1.08136346,28,Normandie,50,MANCHE,2 - Centres urbains intermédiaires
+50000,Centre de gestion de la fonction publique territoriale de La Manche - Service D aide A L archivage,,Archives,,Archives,SAINT-LÔ,49.10012848,-1.08337087,28,Normandie,50,MANCHE,2 - Centres urbains intermédiaires
+50200,Commune de Coutances - Archives municipales,,Archives,,Archives,COUTANCES,49.04779624,-1.44598913,28,Normandie,50,MANCHE,3 - Petites villes
+54400,Commune de Longwy - Gestion des Archives,,Archives,,Archives,LONGWY,49.514038,5.768563,44,Grand Est,54,MEURTHE-ET-MOSELLE,2 - Centres urbains intermédiaires
+54300,Commune de Lunéville - Archives municipales,,Archives,,Archives,LUNÉVILLE,48.59760658,6.48773312,44,Grand Est,54,MEURTHE-ET-MOSELLE,2 - Centres urbains intermédiaires
+54200,Commune de Toul - Archives municipales,,Archives,,Archives,TOUL,48.67607989,5.89430237,44,Grand Est,54,MEURTHE-ET-MOSELLE,2 - Centres urbains intermédiaires
+67700,Communauté de Communes du Pays de Saverne - Service des Archives,,Archives,,Archives,SAVERNE,48.74435638,7.36926172,44,Grand Est,67,BAS-RHIN,2 - Centres urbains intermédiaires
+67600,Commune de Sélestat - Archives municipales,,Archives,,Archives,SÉLESTAT,48.25925456,7.44790257,44,Grand Est,67,BAS-RHIN,2 - Centres urbains intermédiaires
+74600,Commune D annecy - Archives municipales,,Archives,,Archives,ANNECY,45.90861925,6.12497623,84,Auvergne-Rhône-Alpes,74,HAUTE-SAVOIE,1 - Grands centres urbains
+74600,Archives départementales de La Haute-Savoie,,Archives,,Archives,ANNECY,45.9173845,6.12698689,84,Auvergne-Rhône-Alpes,74,HAUTE-SAVOIE,1 - Grands centres urbains
+74300,Commune de Cluses - Archives Et Patrimoine,,Archives,,Archives,CLUSES,46.056176,6.579971,84,Auvergne-Rhône-Alpes,74,HAUTE-SAVOIE,2 - Centres urbains intermédiaires
+81400,Commune de Carmaux - Archives municipales,,Archives,,Archives,CARMAUX,44.052781,2.155872,76,Occitanie,81,TARN,3 - Petites villes
+94350,Commune de Villiers-Sur-Marne - Service des Archives,,Archives,,Archives,VILLIERS-SUR-MARNE,48.8249072,2.54975603,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+97427,Commune de L etang Salé - Archives communales,,Archives,,Archives,L_ETANG-SALÉ,-21.262647,55.362027,4,La Réunion,974,REUNION,2 - Centres urbains intermédiaires
+06270,Commune de Villeneuve-Loubet - Service Valorisation du Patrimoine Archives Et Documentation,,Archives,,Archives,VILLENEUVE-LOUBET,43.65738528,7.12298451,93,Provence-Alpes-Côte d Azur,06,ALPES-MARITIMES,1 - Grands centres urbains
+59260,Commune de Lille - Archives municipales de Lille,,Archives,,Archives,LILLE,50.63072064,3.07097851,32,Hauts-de-France,59,NORD,1 - Grands centres urbains
+59260,Mission Départementale Pour L archivage,,Archives,,Archives,LILLE,50.624741,3.114724,32,Hauts-de-France,59,NORD,1 - Grands centres urbains
+59260,"Centre de gestion de la fonction publique territoriale du Nord - Service ""archives""",,Archives,,Archives,LILLE,50.63151722,3.06347751,32,Hauts-de-France,59,NORD,1 - Grands centres urbains
+59260,Conseil régional de Hauts-de-France - Site de Lille - Service des Archives,,Archives,,Archives,LILLE,50.63021475,3.07900165,32,Hauts-de-France,59,NORD,1 - Grands centres urbains
+59260,Archives départementales du Nord,,Archives,,Archives,LILLE,50.62017848,3.04236563,32,Hauts-de-France,59,NORD,1 - Grands centres urbains
+59260,Commune de Lomme - Archives municipales,,Archives,,Archives,LILLE,50.63925496,3.01171661,32,Hauts-de-France,59,NORD,1 - Grands centres urbains
+44800,Commune de Saint-Herblain - Service Documentation-Archives,,Archives,,Archives,SAINT-HERBLAIN,47.21119374,-1.64835113,52,Pays de la Loire,44,LOIRE-ATLANTIQUE,1 - Grands centres urbains
+91940,Commune des Ulis - Service des Archives,,Archives,,Archives,LES_ULIS,48.684663,2.167812,11,Île-de-France,91,ESSONNE,1 - Grands centres urbains
+94400,Commune de Vitry-Sur-Seine - Service Archives-Documentation,,Archives,,Archives,VITRY-SUR-SEINE,48.78858659,2.3885441,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+94400,Cour D appel de Paris - Centre de Préarchivage,,Archives,,Archives,VITRY-SUR-SEINE,48.776811,2.40616,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+13700,Commune de Marignane - Archives municipales,,Archives,,Archives,MARIGNANE,43.420134,5.207622,93,Provence-Alpes-Côte d Azur,13,BOUCHES-DU-RHONE,2 - Centres urbains intermédiaires
+46000,Communauté D agglomération du Grand Cahors - Service des Archives,,Archives,,Archives,CAHORS,44.44674131,1.44088527,76,Occitanie,46,LOT,2 - Centres urbains intermédiaires
+46000,Archives départementales du Lot,,Archives,,Archives,CAHORS,44.4500139,1.43531976,76,Occitanie,46,LOT,2 - Centres urbains intermédiaires
+40220,Commune de Tarnos - Archives municipales,,Archives,,Archives,TARNOS,43.54127097,-1.46066868,75,Nouvelle-Aquitaine,40,LANDES,4 - Ceintures urbaines
+93420,Commune de Villepinte - Service Documentation-Archives,,Archives,,Archives,VILLEPINTE,48.96279441,2.53362137,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+33300,Métropole de Bordeaux - Archives Bordeaux Métropole,,Archives,,Archives,BORDEAUX,44.87836,-0.547449,75,Nouvelle-Aquitaine,33,GIRONDE,1 - Grands centres urbains
+33300,Conseil régional de Nouvelle-Aquitaine - Site de Bordeaux - Service des Archives,,Archives,,Archives,BORDEAUX,44.83660881,-0.58944049,75,Nouvelle-Aquitaine,33,GIRONDE,1 - Grands centres urbains
+33300,Archives départementales de La Gironde,,Archives,,Archives,BORDEAUX,44.85694064,-0.56801307,75,Nouvelle-Aquitaine,33,GIRONDE,1 - Grands centres urbains
+39200,Commune de Saint-Claude - Service des Archives,,Archives,,Archives,SAINT-CLAUDE,46.38914129,5.86443315,27,Bourgogne-Franche-Comté,39,JURA,2 - Centres urbains intermédiaires
+44700,Commune D orvault - Documentation-Archives,,Archives,,Archives,ORVAULT,47.27090412,-1.62435978,52,Pays de la Loire,44,LOIRE-ATLANTIQUE,1 - Grands centres urbains
+93270,Commune de Sevran - Service Archives Et Mémoire,,Archives,,Archives,SEVRAN,48.94210155,2.53107661,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+95100,Commune D argenteuil - Archives municipales,,Archives,,Archives,ARGENTEUIL,48.94719798,2.24852794,11,Île-de-France,95,VAL-D OISE,1 - Grands centres urbains
+67300,Commune de Schiltigheim - Archives communales,,Archives,,Archives,SCHILTIGHEIM,48.60561268,7.74914431,44,Grand Est,67,BAS-RHIN,1 - Grands centres urbains
+13140,Commune de Miramas - Archives municipales,,Archives,,Archives,MIRAMAS,43.58073543,5.00013125,93,Provence-Alpes-Côte d Azur,13,BOUCHES-DU-RHONE,2 - Centres urbains intermédiaires
+28110,Commune de Lucé - Archives municipales,,Archives,,Archives,LUCÉ,48.43804008,1.46231756,24,Centre-Val de Loire,28,EURE-ET-LOIR,1 - Grands centres urbains
+28110,Commune de Chartres - Archives de La Ville Et de L agglomération Chartres Métropole,,Archives,,Archives,LUCÉ,48.43966507,1.46817763,24,Centre-Val de Loire,28,EURE-ET-LOIR,1 - Grands centres urbains
+78700,Commune de Conflans-Sainte-Honorine - Service Archives-Documentation,,Archives,,Archives,CONFLANS-SAINTE-HONORINE,48.99371687,2.09477372,11,Île-de-France,78,YVELINES,1 - Grands centres urbains
+92800,Commune de Puteaux - Archives municipales,,Archives,,Archives,PUTEAUX,48.88400253,2.23913307,11,Île-de-France,92,HAUTS-DE-SEINE,1 - Grands centres urbains
+33310,Commune de Lormont - Archives municipales,,Archives,,Archives,LORMONT,44.876511,-0.522456,75,Nouvelle-Aquitaine,33,GIRONDE,1 - Grands centres urbains
+77330,Commune D ozoir-La-Ferrière - Service Archives-Documentation,,Archives,,Archives,OZOIR-LA-FERRIÈRE,48.76563777,2.68324309,11,Île-de-France,77,SEINE-ET-MARNE,2 - Centres urbains intermédiaires
+65600,Centre de gestion de la fonction publique territoriale des Hautes-Pyrénées - Service des Archives,,Archives,,Archives,SÉMÉAC,43.2320126,0.1024421,76,Occitanie,65,HAUTES-PYRENEES,2 - Centres urbains intermédiaires
+28000,Archives départementales D eure-Et-Loir,,Archives,,Archives,CHARTRES,48.445422,1.484005,24,Centre-Val de Loire,28,EURE-ET-LOIR,1 - Grands centres urbains
+94130,Commune de Nogent-Sur-Marne - Service Archives-Documentation,,Archives,,Archives,NOGENT-SUR-MARNE,48.84416585,2.48800896,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+97441,Commune de Sainte-Suzanne - Service des Archives,,Archives,,Archives,SAINTE-SUZANNE,-20.90525821,55.60676876,4,La Réunion,974,REUNION,4 - Ceintures urbaines
+80000,Archives départementales de La Somme,,Archives,,Archives,AMIENS,49.88386056,2.30421729,32,Hauts-de-France,80,SOMME,1 - Grands centres urbains
+80000,Conseil régional de Hauts-de-France - Site D amiens - Service des Archives,,Archives,,Archives,AMIENS,49.89410813,2.29571348,32,Hauts-de-France,80,SOMME,1 - Grands centres urbains
+80000,Commune D amiens - Service des Archives,,Archives,,Archives,AMIENS,49.88902113,2.31259505,32,Hauts-de-France,80,SOMME,1 - Grands centres urbains
+59300,Commune de Valenciennes - Archives municipales,,Archives,,Archives,VALENCIENNES,50.35977416,3.51931401,32,Hauts-de-France,59,NORD,1 - Grands centres urbains
+93260,Commune des Lilas - Service Archives-Documentation,,Archives,,Archives,LES_LILAS,48.880506,2.426169,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+94550,Commune de Chevilly-Larue - Service Documentation-Archives,,Archives,,Archives,CHEVILLY-LARUE,48.77125282,2.33867229,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+84100,Commune D orange - Archives municipales,,Archives,,Archives,ORANGE,44.13467878,4.80601303,93,Provence-Alpes-Côte d Azur,84,VAUCLUSE,2 - Centres urbains intermédiaires
+84100,Communauté de Communes du Pays Réuni D orange - Archives Intercommunales,,Archives,,Archives,ORANGE,44.14131454,4.80467107,93,Provence-Alpes-Côte d Azur,84,VAUCLUSE,2 - Centres urbains intermédiaires
+95210,Commune de Saint-Gratien - Service Archives-Documentation,,Archives,,Archives,SAINT-GRATIEN,48.97062998,2.28340804,11,Île-de-France,95,VAL-D OISE,1 - Grands centres urbains
+77200,Communauté D agglomération de Paris-Vallée de La Marne - Service Documentation-Archives,,Archives,,Archives,TORCY,48.85044542,2.63611287,11,Île-de-France,77,SEINE-ET-MARNE,1 - Grands centres urbains
+94250,Commune de Gentilly - Service Archives-Documentation,,Archives,,Archives,GENTILLY,48.81588792,2.34820231,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+97440,Commune de Saint-André - Archives municipales,,Archives,,Archives,SAINT-ANDRÉ,-20.96270904,55.64862704,4,La Réunion,974,REUNION,2 - Centres urbains intermédiaires
+69800,Commune de Saint-Priest - Archives municipales,,Archives,,Archives,SAINT-PRIEST,45.6947807,4.93665482,84,Auvergne-Rhône-Alpes,69,RHONE,1 - Grands centres urbains
+42400,Commune de Saint-Chamond - Archives municipales,,Archives,,Archives,SAINT-CHAMOND,45.47451984,4.51227745,84,Auvergne-Rhône-Alpes,42,LOIRE,2 - Centres urbains intermédiaires
+95110,Commune de Sannois - Service Documentation-Archives,,Archives,,Archives,SANNOIS,48.97132527,2.2574018,11,Île-de-France,95,VAL-D OISE,1 - Grands centres urbains
+28100,Agglomération du Pays de Dreux - Service des Archives,,Archives,,Archives,DREUX,48.73450335,1.36337397,24,Centre-Val de Loire,28,EURE-ET-LOIR,2 - Centres urbains intermédiaires
+95240,Commune de Cormeilles-En-Parisis - Archives municipales,,Archives,,Archives,CORMEILLES-EN-PARISIS,48.97582525,2.19985452,11,Île-de-France,95,VAL-D OISE,1 - Grands centres urbains
+76120,Commune du Grand-Quevilly - Service des Archives,,Archives,,Archives,LE_GRAND-QUEVILLY,49.41742,1.049595,28,Normandie,76,SEINE-MARITIME,1 - Grands centres urbains
+97425,Commune des Avirons - Service des Archives,,Archives,,Archives,LES_AVIRONS,-21.24279434,55.33364758,4,La Réunion,974,REUNION,4 - Ceintures urbaines
+93240,Commune de Stains - Service des Archives,,Archives,,Archives,STAINS,48.94910672,2.39411847,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+78960,Commune de Voisins-Le-Bretonneux - Service des Archives,,Archives,,Archives,VOISINS-LE-BRETONNEUX,48.75864647,2.05112557,11,Île-de-France,78,YVELINES,1 - Grands centres urbains
+92400,Commune de Courbevoie - Archives municipales,,Archives,,Archives,COURBEVOIE,48.90072433,2.25842438,11,Île-de-France,92,HAUTS-DE-SEINE,1 - Grands centres urbains
+69110,Centre de gestion de la fonction publique territoriale du Rhône - Service Documentation Et Archives,,Archives,,Archives,SAINTE-FOY-LÈS-LYON,45.73409411,4.7893744,84,Auvergne-Rhône-Alpes,69,RHONE,1 - Grands centres urbains
+69110,Commune de Sainte-Foy-Les-Lyon - Archives municipales,,Archives,,Archives,SAINTE-FOY-LÈS-LYON,45.73620953,4.79907565,84,Auvergne-Rhône-Alpes,69,RHONE,1 - Grands centres urbains
+97400,Archives départementales de La Réunion,,Archives,,Archives,SAINT-DENIS,-20.88924663,55.46506204,4,La Réunion,974,REUNION,1 - Grands centres urbains
+97400,Communauté Intercommunale du Nord de La Réunion (Cinor) - Service des Archives,,Archives,,Archives,SAINT-DENIS,-20.90203192,55.50201563,4,La Réunion,974,REUNION,1 - Grands centres urbains
+97400,Conseil régional de La Réunion - Service des Archives,,Archives,,Archives,SAINT-DENIS,48.636491,2.346805,4,La Réunion,974,REUNION,1 - Grands centres urbains
+97400,Commune de Saint-denis-de-La-Réunion - Archives municipales,,Archives,,Archives,SAINT-DENIS,-20.88570163,55.47572906,4,La Réunion,974,REUNION,1 - Grands centres urbains
+13130,Commune de Berre-L etang - Archives municipales,,Archives,,Archives,BERRE-L_ETANG,43.518682,5.192607,93,Provence-Alpes-Côte d Azur,13,BOUCHES-DU-RHONE,2 - Centres urbains intermédiaires
+59223,Commune de Roncq - Archives municipales,,Archives,,Archives,RONCQ,50.74543769,3.11565372,32,Hauts-de-France,59,NORD,1 - Grands centres urbains
+45160,Commune D olivet - Archives municipales,,Archives,,Archives,OLIVET,47.8652759,1.89727151,24,Centre-Val de Loire,45,LOIRET,1 - Grands centres urbains
+87000,Conseil régional de Nouvelle-Aquitaine - Site de Limoges - Service des Archives,,Archives,,Archives,LIMOGES,45.82832622,1.26415508,75,Nouvelle-Aquitaine,87,HAUTE-VIENNE,1 - Grands centres urbains
+87000,Archives départementales de La Haute-Vienne,,Archives,,Archives,LIMOGES,45.81747994,1.23505025,75,Nouvelle-Aquitaine,87,HAUTE-VIENNE,1 - Grands centres urbains
+87000,Commune de Limoges - Archives municipales,,Archives,,Archives,LIMOGES,45.82590627,1.26241462,75,Nouvelle-Aquitaine,87,HAUTE-VIENNE,1 - Grands centres urbains
+94360,Commune de Bry-Sur-Marne - Archives municipales,,Archives,,Archives,BRY-SUR-MARNE,48.83522423,2.51982736,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+78400,Commune de Chatou - Service Archives-Documentation,,Archives,,Archives,CHATOU,48.896377,2.150726,11,Île-de-France,78,YVELINES,1 - Grands centres urbains
+91170,Commune de Viry-Châtillon - Service Archives Documentation Et Histoire Locale,,Archives,,Archives,VIRY-CHÂTILLON,48.67158498,2.37732143,11,Île-de-France,91,ESSONNE,1 - Grands centres urbains
+64000,Communauté D agglomération Pau-Béarn-Pyrénées - Service des Archives,,Archives,,Archives,PAU,43.292916,-0.362343,75,Nouvelle-Aquitaine,64,PYRENEES-ATLANTIQUES,1 - Grands centres urbains
+64000,Archives départementales des Pyrénées-Atlantiques,,Archives,,Archives,PAU,43.310658,-0.349773,75,Nouvelle-Aquitaine,64,PYRENEES-ATLANTIQUES,1 - Grands centres urbains
+64000,Centre de gestion de la fonction publique territoriale des Pyrénées-Atlantiques - Service Archives,,Archives,,Archives,PAU,43.30999969,-0.3597094,75,Nouvelle-Aquitaine,64,PYRENEES-ATLANTIQUES,1 - Grands centres urbains
+97438,Commune de Sainte-Marie - Service des Archives,,Archives,,Archives,SAINTE-MARIE,-20.89693107,55.54924733,4,La Réunion,974,REUNION,4 - Ceintures urbaines
+93330,Commune de Neuilly-Sur-Marne - Service Documentation-Archives,,Archives,,Archives,NEUILLY-SUR-MARNE,48.85664671,2.52866332,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+94410,Commune de Saint Maurice - Service Archives-Documentation,,Archives,,Archives,SAINT-MAURICE,48.81807253,2.42710858,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+14000,Conseil régional de Normandie - Site de Caen - Service des Archives,,Archives,,Archives,CAEN,49.186606,-0.353634,28,Normandie,14,CALVADOS,1 - Grands centres urbains
+14000,Archives départementales du Calvados,,Archives,,Archives,CAEN,49.20187324,-0.3547415,28,Normandie,14,CALVADOS,1 - Grands centres urbains
+14000,Communauté Urbaine de Caen La Mer - Service des Archives,,Archives,,Archives,CAEN,49.18186697,-0.3746061,28,Normandie,14,CALVADOS,1 - Grands centres urbains
+29200,Commune de Brest Métropole - Archives municipales Et Communautaires,,Archives,,Archives,BREST,48.39806634,-4.50649443,53,Bretagne,29,FINISTERE,1 - Grands centres urbains
+34090,Archives départementales de L hérault,,Archives,,Archives,MONTPELLIER,43.62469842,3.82357618,76,Occitanie,34,HERAULT,1 - Grands centres urbains
+34090,Centre de gestion de la fonction publique territoriale de L hérault - Mission Archives Cdg 34,,Archives,,Archives,MONTPELLIER,43.62503974,3.83897658,76,Occitanie,34,HERAULT,1 - Grands centres urbains
+34090,Conseil régional D occitanie - Site de Montpellier - Unité Archives,,Archives,,Archives,MONTPELLIER,43.642306,3.840504,76,Occitanie,34,HERAULT,1 - Grands centres urbains
+34090,Commune de Montpellier - Archives municipales,,Archives,,Archives,MONTPELLIER,43.60772912,3.8934263,76,Occitanie,34,HERAULT,1 - Grands centres urbains
+94120,Commune de Fontenay-Sous-Bois - Service Archives-Documentation,,Archives,,Archives,FONTENAY-SOUS-BOIS,48.84905401,2.47469597,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+59150,Commune de Wattrelos - Archives municipales,,Archives,,Archives,WATTRELOS,50.70183498,3.215479,32,Hauts-de-France,59,NORD,1 - Grands centres urbains
+93290,Commune de Tremblay-En-France - Archives communales,,Archives,,Archives,TREMBLAY-EN-FRANCE,48.95160832,2.57089585,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+91800,Commune de Brunoy - Service des Archives,,Archives,,Archives,BRUNOY,48.69736764,2.50473845,11,Île-de-France,91,ESSONNE,1 - Grands centres urbains
+83300,Commune de Draguignan - Service Courrier-Documentation-Archives,,Archives,,Archives,DRAGUIGNAN,43.537537,6.463008,93,Provence-Alpes-Côte d Azur,83,VAR,2 - Centres urbains intermédiaires
+83300,Archives départementales du Var,,Archives,,Archives,DRAGUIGNAN,43.53494119,6.47570515,93,Provence-Alpes-Côte d Azur,83,VAR,2 - Centres urbains intermédiaires
+97433,Commune de Salazie - Service des Archives,,Archives,,Archives,SALAZIE,-21.027933,55.538998,4,La Réunion,974,REUNION,5 - Bourgs ruraux
+34300,Commune D agde - Service des Archives,,Archives,,Archives,AGDE,43.314563,3.479394,76,Occitanie,34,HERAULT,2 - Centres urbains intermédiaires
+94000,Commune de Créteil - Service des Archives de L archéologie Et de La Documentation,,Archives,,Archives,CRÉTEIL,48.77738502,2.45379721,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+94000,Etablissement Public Territorial 11 Grand Paris Sud Est Europarc - Service des Archives,,Archives,,Archives,CRÉTEIL,48.76505944,2.46940857,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+94000,Archives départementales du Val de Marne,,Archives,,Archives,CRÉTEIL,48.78311744,2.45659612,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+62700,Commune de Bruay-La-Buissière - Service des Archives municipales,,Archives,,Archives,BRUAY-LA-BUISSIÈRE,50.48220115,2.54623465,32,Hauts-de-France,62,PAS-DE-CALAIS,2 - Centres urbains intermédiaires
+20600,Direction des Archives,,Archives,,Archives,BASTIA,42.70527556,9.44811646,94,Corse,2B,HAUTE-CORSE,2 - Centres urbains intermédiaires
+92100,Commune de Boulogne-Billancourt - Archives municipales,,Archives,,Archives,BOULOGNE-BILLANCOURT,48.83596705,2.24052759,11,Île-de-France,92,HAUTS-DE-SEINE,1 - Grands centres urbains
+91120,Commune de Palaiseau - Service des Archives,,Archives,,Archives,PALAISEAU,48.71455297,2.2457271,11,Île-de-France,91,ESSONNE,1 - Grands centres urbains
+06110,Commune du Cannet - Archives municipales,,Archives,,Archives,LE_CANNET,43.57631508,7.01884755,93,Provence-Alpes-Côte d Azur,06,ALPES-MARITIMES,1 - Grands centres urbains
+69530,Commune de Brignais - Archives communales,,Archives,,Archives,BRIGNAIS,45.6749105,4.75900038,84,Auvergne-Rhône-Alpes,69,RHONE,2 - Centres urbains intermédiaires
+75019,Archives de Paris,,Archives,,Archives,PARIS,48.87896072,2.40504838,11,Île-de-France,75,PARIS,1 - Grands centres urbains
+97110,Commune de Pointe-A-Pitre - Service Archives-Documentation,,Archives,,Archives,POINTE-À-PITRE,16.24094969,-61.53348456,1,Guadeloupe,971,GUADELOUPE,2 - Centres urbains intermédiaires
+35400,Commune de Saint-Malo - Archives municipales,,Archives,,Archives,SAINT-MALO,48.64528126,-2.0045962,53,Bretagne,35,ILLE-ET-VILAINE,2 - Centres urbains intermédiaires
+59700,Commune de Marcq-En-Baroeul - Archives municipales,,Archives,,Archives,MARCQ-EN-BAROEUL,50.67808346,3.09355077,32,Hauts-de-France,59,NORD,1 - Grands centres urbains
+19100,Commune Et Communauté D agglomération du Bassin de Brive - Service des Archives,,Archives,,Archives,BRIVE-LA-GAILLARDE,45.15942098,1.53518093,75,Nouvelle-Aquitaine,19,CORREZE,2 - Centres urbains intermédiaires
+93110,Commune de Rosny-Sous-Bois - Service des Archives Et de La Documentation,,Archives,,Archives,ROSNY-SOUS-BOIS,48.872368,2.485168,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+93230,Etablissement Public Territorial Est Ensemble - Service des Archives,,Archives,,Archives,ROMAINVILLE,48.89353298,2.43249039,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+93230,Commune de Romainville - Service Archives-Documentation,,Archives,,Archives,ROMAINVILLE,48.88592965,2.43476101,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+97412,Commune de Bras-Panon - Service des Archives,,Archives,,Archives,BRAS-PANON,-20.99748151,55.68184218,4,La Réunion,974,REUNION,2 - Centres urbains intermédiaires
+78340,Commune de Clayes-Sous-Bois - Archives communales,,Archives,,Archives,LES_CLAYES-SOUS-BOIS,48.825349,1.995109,11,Île-de-France,78,YVELINES,1 - Grands centres urbains
+44500,Commune de La Baule-Escoublac - Service des Archives,,Archives,,Archives,LA_BAULE-ESCOUBLAC,47.28268743,-2.39487127,52,Pays de la Loire,44,LOIRE-ATLANTIQUE,2 - Centres urbains intermédiaires
+59000,Commune de Lomme - Archives municipales,,Archives,,Archives,LILLE,50.639271,3.011801,32,Hauts-de-France,59,NORD,1 - Grands centres urbains
+77340,Commune de Pontault-Combault,,Archives,,Archives,PONTAULT-COMBAULT,48.80397826,2.61149213,11,Île-de-France,77,SEINE-ET-MARNE,1 - Grands centres urbains
+13310,Commune de Saint-Martin-de-Crau - Archives municipales,,Archives,,Archives,SAINT-MARTIN-DE-CRAU,43.638384,4.811027,93,Provence-Alpes-Côte d Azur,13,BOUCHES-DU-RHONE,2 - Centres urbains intermédiaires
+56600,Commune de Lanester - Archives municipales,,Archives,,Archives,LANESTER,47.76355904,-3.34691217,53,Bretagne,56,MORBIHAN,1 - Grands centres urbains
+94450,Commune de Limeil-Brévannes - Service Archives-Documentation,,Archives,,Archives,LIMEIL-BRÉVANNES,48.754767,2.495842,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+21000,Centre de gestion de la fonction publique territoriale de La Côte D or - S.O.S. Archives,,Archives,,Archives,DIJON,47.32110416,5.02494148,27,Bourgogne-Franche-Comté,21,COTE-D OR,1 - Grands centres urbains
+21000,Bâtiment Annexe,,Archives,,Archives,DIJON,47.30883335,5.03028206,27,Bourgogne-Franche-Comté,21,COTE-D OR,1 - Grands centres urbains
+21000,Archives municipales - Les Archives Contemporaines,,Archives,,Archives,DIJON,47.32704799,5.05385835,27,Bourgogne-Franche-Comté,21,COTE-D OR,1 - Grands centres urbains
+21000,Conseil régional de Bourgogne-Franche-Comté - Site de Dijon - Cellule Archives,,Archives,,Archives,DIJON,47.34620715,5.07097465,27,Bourgogne-Franche-Comté,21,COTE-D OR,1 - Grands centres urbains
+21000,Archives départementales de Côte D or,,Archives,,Archives,DIJON,47.322289,5.0439803,27,Bourgogne-Franche-Comté,21,COTE-D OR,1 - Grands centres urbains
+21000,Commune de Dijon - Archives municipales- Les Archives Historiques,,Archives,,Archives,DIJON,47.32146982,5.04039497,27,Bourgogne-Franche-Comté,21,COTE-D OR,1 - Grands centres urbains
+94600,Commune de Choisy-Le-Roi - Service Archives-Documentation-Patrimoine,,Archives,,Archives,CHOISY-LE-ROI,48.76268581,2.41054336,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+44220,Commune de Couëron - Service Archives Et Patrimoine,,Archives,,Archives,COUËRON,47.21197243,-1.72783895,52,Pays de la Loire,44,LOIRE-ATLANTIQUE,4 - Ceintures urbaines
+97480,Commune de Saint-Joseph - Service des Archives,,Archives,,Archives,SAINT-JOSEPH,-21.37877491,55.61910687,4,La Réunion,974,REUNION,4 - Ceintures urbaines
+92150,Commune de Suresnes - Archives municipales,,Archives,,Archives,SURESNES,48.87119789,2.22579055,11,Île-de-France,92,HAUTS-DE-SEINE,1 - Grands centres urbains
+94270,Commune du Kremlin-Bicêtre - Service Documentation Et Archives,,Archives,,Archives,LE_KREMLIN-BICÊTRE,48.81342516,2.35759589,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+10000,Archives municipales de Troyes,,Archives,,Archives,TROYES,48.29680287,4.07403525,44,Grand Est,10,AUBE,1 - Grands centres urbains
+10000,Archives départementales de L aube,,Archives,,Archives,TROYES,48.31477013,4.07473891,44,Grand Est,10,AUBE,1 - Grands centres urbains
+93120,Commune de La Courneuve - Service Documentation-Archives,,Archives,,Archives,LA_COURNEUVE,48.92731684,2.38830263,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+67100,Conseil régional Grand-Est  - Site de Strasbourg - Service des Archives,,Archives,,Archives,STRASBOURG,48.59879178,7.76041735,44,Grand Est,67,BAS-RHIN,1 - Grands centres urbains
+67100,Archives départementales du Bas-Rhin,,Archives,,Archives,STRASBOURG,48.57198004,7.77194306,44,Grand Est,67,BAS-RHIN,1 - Grands centres urbains
+67100,Commune de Strasbourg - Archives de La Ville Et de L eurométropole de Strasbourg,,Archives,,Archives,STRASBOURG,48.57248802,7.76381657,44,Grand Est,67,BAS-RHIN,1 - Grands centres urbains
+94190,Commune de Villeneuve-Saint-Georges - Service des Archives,,Archives,,Archives,VILLENEUVE-SAINT-GEORGES,48.73409558,2.44829093,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+78955,Commune de Carrières-Sous-Poissy - Documentation-Archives,,Archives,,Archives,CARRIÈRES-SOUS-POISSY,48.94370565,2.03444759,11,Île-de-France,78,YVELINES,1 - Grands centres urbains
+06130,Commune de Grasse - Archives communales,,Archives,,Archives,GRASSE,43.66701425,6.93875656,93,Provence-Alpes-Côte d Azur,06,ALPES-MARITIMES,2 - Centres urbains intermédiaires
+13580,Commune de La Fare-Les-Oliviers - Archives municipales,,Archives,,Archives,LA_FARE-LES-OLIVIERS,43.54807462,5.18353069,93,Provence-Alpes-Côte d Azur,13,BOUCHES-DU-RHONE,4 - Ceintures urbaines
+97429,Commune de Petite-Ile - Service des Archives,,Archives,,Archives,PETITE-ILE,-21.35582473,55.56596944,4,La Réunion,974,REUNION,4 - Ceintures urbaines
+29000,Archives départementales du Finistère,,Archives,,Archives,QUIMPER,48.01461785,-4.08825283,53,Bretagne,29,FINISTERE,1 - Grands centres urbains
+29000,Centre de gestion de la fonction publique territoriale du Finistère - Service des Archives,,Archives,,Archives,QUIMPER,48.01516081,-4.09057714,53,Bretagne,29,FINISTERE,1 - Grands centres urbains
+29000,Commune de Quimper - Archives municipales Et Communautaires,,Archives,,Archives,QUIMPER,47.99674263,-4.10154721,53,Bretagne,29,FINISTERE,1 - Grands centres urbains
+90000,Commune de Belfort - Archives municipales,,Archives,,Archives,BELFORT,47.63763403,6.86160023,27,Bourgogne-Franche-Comté,90,TERRITOIRE DE BELFORT,1 - Grands centres urbains
+90000,Archives départementales du Territoire de Belfort,,Archives,,Archives,BELFORT,47.63750819,6.86198805,27,Bourgogne-Franche-Comté,90,TERRITOIRE DE BELFORT,1 - Grands centres urbains
+78800,Commune de Houilles - Archives municipales,,Archives,,Archives,HOUILLES,48.92317093,2.18665095,11,Île-de-France,78,YVELINES,1 - Grands centres urbains
+13300,Commune de Salon-de-Provence - Archives municipales,,Archives,,Archives,SALON-DE-PROVENCE,43.640542,5.099265,93,Provence-Alpes-Côte d Azur,13,BOUCHES-DU-RHONE,2 - Centres urbains intermédiaires
+56270,Commune de Ploemeur - Archives municipales,,Archives,,Archives,PLOEMEUR,47.73213751,-3.42614619,53,Bretagne,56,MORBIHAN,4 - Ceintures urbaines
+93350,Commune du Bourget - Service Archives-Documentation,,Archives,,Archives,LE_BOURGET,48.93444149,2.42511599,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+71880,Commune de Chalon-Sur-Saône - Archives municipales,,Archives,,Archives,CHÂTENOY-LE-ROYAL,46.79749943,4.82588159,27,Bourgogne-Franche-Comté,71,SAONE-ET-LOIRE,4 - Ceintures urbaines
+97220,Commune de La Trinité - Service Archives-Documentation,,Archives,,Archives,LA_TRINITÉ,14.73862324,-60.96307587,2,Martinique,972,MARTINIQUE,4 - Ceintures urbaines
+92140,Commune de Clamart - Service Archives-Documentation,,Archives,,Archives,CLAMART,48.80062674,2.26311562,11,Île-de-France,92,HAUTS-DE-SEINE,1 - Grands centres urbains
+92120,Commune de Montrouge - Service Archives-Documentation,,Archives,,Archives,MONTROUGE,48.81863634,2.32107921,11,Île-de-France,92,HAUTS-DE-SEINE,1 - Grands centres urbains
+37540,Commune de Saint-Cyr-Sur-Loire - Service Archives,,Archives,,Archives,SAINT-CYR-SUR-LOIRE,47.42336749,0.66311877,24,Centre-Val de Loire,37,INDRE-ET-LOIRE,1 - Grands centres urbains
+13080,Centre de gestion de la fonction publique territoriale des Bouches-du-Rhône - Service Archives,,Archives,,Archives,AIX-EN-PROVENCE,43.52538168,5.41062872,93,Provence-Alpes-Côte d Azur,13,BOUCHES-DU-RHONE,1 - Grands centres urbains
+13080,Archives Nationales D outre-Mer - Anom,,Archives,,Archives,AIX-EN-PROVENCE,43.51448566,5.44797341,93,Provence-Alpes-Côte d Azur,13,BOUCHES-DU-RHONE,1 - Grands centres urbains
+13080,Métropole Aix-Marseille Provence - Cellule Archives,,Archives,,Archives,AIX-EN-PROVENCE,43.48357305,5.38196079,93,Provence-Alpes-Côte d Azur,13,BOUCHES-DU-RHONE,1 - Grands centres urbains
+13080,Commune D aix-En-Provence - Archives municipales,,Archives,,Archives,AIX-EN-PROVENCE,43.5305869,5.44615995,93,Provence-Alpes-Côte d Azur,13,BOUCHES-DU-RHONE,1 - Grands centres urbains
+12000,Archives départementales de L aveyron,,Archives,,Archives,RODEZ,44.35114887,2.56854402,76,Occitanie,12,AVEYRON,2 - Centres urbains intermédiaires
+12000,Commune de Rodez - Archives municipales,,Archives,,Archives,RODEZ,44.34946674,2.57661194,76,Occitanie,12,AVEYRON,2 - Centres urbains intermédiaires
+13210,Archives Anciennes Et Modernes,,Archives,,Archives,SAINT-RÉMY-DE-PROVENCE,43.78956525,4.83488157,93,Provence-Alpes-Côte d Azur,13,BOUCHES-DU-RHONE,3 - Petites villes
+13210,Commune de Saint-Rémy-de-Provence - Archives Contemporaines,,Archives,,Archives,SAINT-RÉMY-DE-PROVENCE,43.78857413,4.83175666,93,Provence-Alpes-Côte d Azur,13,BOUCHES-DU-RHONE,3 - Petites villes
+44300,Archives départementales de Loire-Atlantique,,Archives,,Archives,NANTES,47.22492162,-1.55729762,52,Pays de la Loire,44,LOIRE-ATLANTIQUE,1 - Grands centres urbains
+44300,Ville Et Métropole de Nantes - Nantes Métropole,,Archives,,Archives,NANTES,47.21907153,-1.55444327,52,Pays de la Loire,44,LOIRE-ATLANTIQUE,1 - Grands centres urbains
+44300,Centre de gestion de la fonction publique territoriale de Loire-Atlantique - Service Archives,,Archives,,Archives,NANTES,47.2111515,-1.52948897,52,Pays de la Loire,44,LOIRE-ATLANTIQUE,1 - Grands centres urbains
+44300,Conseil régional des Pays-de-La-Loire - Service des Archives,,Archives,,Archives,NANTES,47.21125637,-1.52604501,52,Pays de la Loire,44,LOIRE-ATLANTIQUE,1 - Grands centres urbains
+75003,Archives Nationales - Site de Paris,,Archives,,Archives,PARIS,48.86024145,2.35760134,11,Île-de-France,75,PARIS,1 - Grands centres urbains
+93370,Commune de Montfermeil - Service Archives-Documentation,,Archives,,Archives,MONTFERMEIL,48.90225751,2.57085865,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+50120,Commune de Cherbourg-En-Cotentin - Archives municipales,,Archives,,Archives,CHERBOURG-EN-COTENTIN,49.64153984,-1.62610892,28,Normandie,50,MANCHE,1 - Grands centres urbains
+93800,Commune D epinay-Sur-Seine - Archives communales,,Archives,,Archives,EPINAY-SUR-SEINE,48.95206139,2.31199599,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+33400,Commune de Talence - Archives municipales,,Archives,,Archives,TALENCE,44.80808532,-0.5885937,75,Nouvelle-Aquitaine,33,GIRONDE,1 - Grands centres urbains
+68170,Commune de Rixheim - Archives municipales,,Archives,,Archives,RIXHEIM,47.74450324,7.39753204,44,Grand Est,68,HAUT-RHIN,1 - Grands centres urbains
+92600,Commune D asnières-Sur-Seine - Service des Archives,,Archives,,Archives,ASNIÈRES-SUR-SEINE,48.91069173,2.28898864,11,Île-de-France,92,HAUTS-DE-SEINE,1 - Grands centres urbains
+94170,Commune du Perreux-Sur-Marne - Service Archives-Documentation,,Archives,,Archives,LE_PERREUX-SUR-MARNE,48.84030482,2.50856867,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+83400,Commune de Hyères  - Archives municipales,,Archives,,Archives,HYÈRES,43.1201849,6.13104743,93,Provence-Alpes-Côte d Azur,83,VAR,2 - Centres urbains intermédiaires
+63100,Conseil régional D auvergne-Rhône-Alpes - Site de Clermont-Ferrand - Service des Archives,,Archives,,Archives,CLERMONT-FERRAND,45.79514853,3.11654224,84,Auvergne-Rhône-Alpes,63,PUY-DE-DOME,1 - Grands centres urbains
+63100,Commune de Clermont-Ferrand - Archives municipales,,Archives,,Archives,CLERMONT-FERRAND,45.77968474,3.08607286,84,Auvergne-Rhône-Alpes,63,PUY-DE-DOME,1 - Grands centres urbains
+63100,Centre de gestion de la fonction publique territoriale du Puy-de-Dôme - Service Archives,,Archives,,Archives,CLERMONT-FERRAND,45.76549462,3.13340193,84,Auvergne-Rhône-Alpes,63,PUY-DE-DOME,1 - Grands centres urbains
+63100,Archives départementales du Puy-de-Dôme,,Archives,,Archives,CLERMONT-FERRAND,45.80719018,3.10231885,84,Auvergne-Rhône-Alpes,63,PUY-DE-DOME,1 - Grands centres urbains
+94200,Commune D ivry-Sur-Seine - Service des Archives,,Archives,,Archives,IVRY-SUR-SEINE,48.81195223,2.38790138,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+92270,Commune de Bois-Colombes - Service Archives Et Patrimoine Culturel,,Archives,,Archives,BOIS-COLOMBES,48.91443185,2.26791535,11,Île-de-France,92,HAUTS-DE-SEINE,1 - Grands centres urbains
+06700,Commune de Saint-Laurent-du-Var - Service Archives-Documentation,,Archives,,Archives,SAINT-LAURENT-DU-VAR,43.6751403,7.191975,93,Provence-Alpes-Côte d Azur,06,ALPES-MARITIMES,1 - Grands centres urbains
+93210,Etablissement Public Territorial Plaine Commune - Pôle Archives,,Archives,,Archives,SAINT-DENIS,48.92470178,2.36281231,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+93210,Commune de Saint-denis - Archives municipales,,Archives,,Archives,SAINT-DENIS,46.416944,-1.5771,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+91210,Commune de Draveil - Archives communales,,Archives,,Archives,DRAVEIL,48.68519831,2.40809287,11,Île-de-France,91,ESSONNE,1 - Grands centres urbains
+69190,Commune de Saint-Fons - Archives communales,,Archives,,Archives,SAINT-FONS,45.709131,4.85262602,84,Auvergne-Rhône-Alpes,69,RHONE,1 - Grands centres urbains
+83100,Commune de Toulon - Archives municipales,,Archives,,Archives,TOULON,43.13165816,5.97210849,93,Provence-Alpes-Côte d Azur,83,VAR,1 - Grands centres urbains
+83100,Métropole Toulon Provence Méditerranée - Service des Archives,,Archives,,Archives,TOULON,43.11833517,5.94720579,93,Provence-Alpes-Côte d Azur,83,VAR,1 - Grands centres urbains
+97200,Archives départementales de La Martinique,,Archives,,Archives,FORT-DE-FRANCE,14.60646751,-61.08010604,2,Martinique,972,MARTINIQUE,1 - Grands centres urbains
+97200,Conseil régional de La Martinique - Service régional de La Documentation Et des Archives,,Archives,,Archives,FORT-DE-FRANCE,14.62052705,-61.08038292,2,Martinique,972,MARTINIQUE,1 - Grands centres urbains
+97200,Commune de Fort-de-France - Archives municipales,,Archives,,Archives,FORT-DE-FRANCE,14.609127,-61.083771,2,Martinique,972,MARTINIQUE,1 - Grands centres urbains
+91100,Commune de Corbeil-Essonnes - Archives communales,,Archives,,Archives,CORBEIL-ESSONNES,48.6137215,2.48195121,11,Île-de-France,91,ESSONNE,1 - Grands centres urbains
+78300,Commune de Poissy - Archives communales,,Archives,,Archives,POISSY,48.92749318,2.04124499,11,Île-de-France,78,YVELINES,1 - Grands centres urbains
+95310,Commune de Saint-Ouen-L aumône - Archives communales,,Archives,,Archives,SAINT-OUEN-L_AUMÔNE,49.044073,2.10948,11,Île-de-France,95,VAL-D OISE,1 - Grands centres urbains
+91350,Commune de Grigny - Service des Archives Et de La Documentation,,Archives,,Archives,GRIGNY,48.65613317,2.38500776,11,Île-de-France,91,ESSONNE,1 - Grands centres urbains
+83260,Centre de gestion de la fonction publique territoriale du Var,,Archives,,Archives,LA_CRAU,43.13144183,6.07630509,93,Provence-Alpes-Côte d Azur,83,VAR,2 - Centres urbains intermédiaires
+85160,Commune de Saint-Jean-de-Monts - Archives municipales,,Archives,,Archives,SAINT-JEAN-DE-MONTS,46.79156725,-2.06429184,52,Pays de la Loire,85,VENDEE,3 - Petites villes
+56000,Archives départementales du Morbihan,,Archives,,Archives,VANNES,47.64816201,-2.78108328,53,Bretagne,56,MORBIHAN,1 - Grands centres urbains
+56000,Commune de Vannes - Archives municipales,,Archives,,Archives,VANNES,47.66272297,-2.75486389,53,Bretagne,56,MORBIHAN,1 - Grands centres urbains
+95600,Commune D eaubonne - Archives municipales,,Archives,,Archives,EAUBONNE,48.99116436,2.27956028,11,Île-de-France,95,VAL-D OISE,1 - Grands centres urbains
+97410,Commune de Saint-Pierre - Service Archives,,Archives,,Archives,SAINT-PIERRE,-21.33415237,55.47973217,4,La Réunion,974,REUNION,2 - Centres urbains intermédiaires
+93130,Commune de Noisy-Le-Sec - Service Documentation-Archives,,Archives,,Archives,NOISY-LE-SEC,48.89006026,2.45173129,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+59113,Commune de Seclin - Archives municipales,,Archives,,Archives,SECLIN,50.54435853,3.02418921,32,Hauts-de-France,59,NORD,2 - Centres urbains intermédiaires
+38920,Commune de Crolles - Service Documentation Archives Et Patrimoine,,Archives,,Archives,CROLLES,45.28371712,5.88136722,84,Auvergne-Rhône-Alpes,38,ISERE,2 - Centres urbains intermédiaires
+38920,Communauté de Communes Le Grésivaudan - Cellule Archives-Documentation,,Archives,,Archives,CROLLES,45.27546675,5.89726566,84,Auvergne-Rhône-Alpes,38,ISERE,2 - Centres urbains intermédiaires
+68400,Commune de Riedisheim - Archives municipales,,Archives,,Archives,RIEDISHEIM,47.7492117,7.36884419,44,Grand Est,68,HAUT-RHIN,1 - Grands centres urbains
+97420,Communauté D agglomération du Territoire de La Côte Ouest (Tco) - Service des Archives,,Archives,,Archives,LE_PORT,-20.9374517,55.29986096,4,La Réunion,974,REUNION,2 - Centres urbains intermédiaires
+97420,Commune du Port - Service des Archives,,Archives,,Archives,LE_PORT,-20.93551961,55.29025283,4,La Réunion,974,REUNION,2 - Centres urbains intermédiaires
+06220,Commune de Vallauris - Service Archives-Documentation,,Archives,,Archives,VALLAURIS,43.5797859,7.05574136,93,Provence-Alpes-Côte d Azur,06,ALPES-MARITIMES,1 - Grands centres urbains
+79300,Commune de Bressuire - Archives municipales,,Archives,,Archives,BRESSUIRE,46.83466977,-0.47939983,75,Nouvelle-Aquitaine,79,DEUX-SEVRES,5 - Bourgs ruraux
+79300,Communauté D agglomération du Bocage Bressuirais - Service des Archives,,Archives,,Archives,BRESSUIRE,46.84219247,-0.48833133,75,Nouvelle-Aquitaine,79,DEUX-SEVRES,5 - Bourgs ruraux
+79000,Archives départementales des deux-Sèvres,,Archives,,Archives,NIORT,46.33255567,-0.45327411,75,Nouvelle-Aquitaine,79,DEUX-SEVRES,2 - Centres urbains intermédiaires
+79000,Commune de Niort - Archives municipales,,Archives,,Archives,NIORT,46.32382134,-0.46479468,75,Nouvelle-Aquitaine,79,DEUX-SEVRES,2 - Centres urbains intermédiaires
+79000,Communauté D agglomération du Niortais - Service des Archives,,Archives,,Archives,NIORT,46.3189216,-0.48365083,75,Nouvelle-Aquitaine,79,DEUX-SEVRES,2 - Centres urbains intermédiaires
+82000,Commune de Montauban - Service Documentation-Archives,,Archives,,Archives,MONTAUBAN,44.01340691,1.36409832,76,Occitanie,82,TARN-ET-GARONNE,2 - Centres urbains intermédiaires
+82000,Archives départementales du Tarn-Et-Garonne,,Archives,,Archives,MONTAUBAN,44.02279275,1.34747334,76,Occitanie,82,TARN-ET-GARONNE,2 - Centres urbains intermédiaires
+85500,Communauté de Communes du Pays des Herbiers - Service des Archives,,Archives,,Archives,LES_HERBIERS,46.86944755,-1.01368017,52,Pays de la Loire,85,VENDEE,3 - Petites villes
+86000,Archives Antérieures A 1870,,Archives,,Archives,POITIERS,46.5844147,0.34293557,75,Nouvelle-Aquitaine,86,VIENNE,1 - Grands centres urbains
+86000,Conseil régional de Nouvelle-Aquitaine - Site de Poitiers - Service des Archives,,Archives,,Archives,POITIERS,46.58079362,0.34267934,75,Nouvelle-Aquitaine,86,VIENNE,1 - Grands centres urbains
+86000,Communauté D agglomération du Grand Poitiers - Archives municipales,,Archives,,Archives,POITIERS,46.56293105,0.31053803,75,Nouvelle-Aquitaine,86,VIENNE,1 - Grands centres urbains
+86000,Archives départementales de La Vienne,,Archives,,Archives,POITIERS,46.56700075,0.36840205,75,Nouvelle-Aquitaine,86,VIENNE,1 - Grands centres urbains
+86360,Centre de gestion de la fonction publique territoriale de La Vienne - Service des Archives,,Archives,,Archives,CHASSENEUIL-DU-POITOU,46.65636576,0.36159844,75,Nouvelle-Aquitaine,86,VIENNE,3 - Petites villes
+88200,Commune de Remiremont - Archives municipales,,Archives,,Archives,REMIREMONT,48.0161167,6.59177901,44,Grand Est,88,VOSGES,3 - Petites villes
+88300,Commune de Neufchâteau - Service Documentation Et Archives,,Archives,,Archives,NEUFCHÂTEAU,48.35504824,5.69451451,44,Grand Est,88,VOSGES,3 - Petites villes
+97600,Archives départementales de Mayotte,,Archives,,Archives,MAMOUDZOU,-12.761829,45.228272,6,Mayotte,976,MAYOTTE,1 - Grands centres urbains
+02000,Archives départementales de L aisne,,Archives,,Archives,LAON,49.555363,3.604875,32,Hauts-de-France,02,AISNE,2 - Centres urbains intermédiaires
+02100,Commune de Saint-Quentin - Archives municipales,,Archives,,Archives,SAINT-QUENTIN,49.85516276,3.30745063,32,Hauts-de-France,02,AISNE,2 - Centres urbains intermédiaires
+02880,Communauté D agglomération du Soissonnais - Service des Archives,,Archives,,Archives,CUFFIES,49.40059491,3.32885188,32,Hauts-de-France,02,AISNE,4 - Ceintures urbaines
+04100,Commune de Manosque - Archives communales,,Archives,,Archives,MANOSQUE,43.83055249,5.78323514,93,Provence-Alpes-Côte d Azur,04,ALPES-DE-HAUTE-PROVENCE,2 - Centres urbains intermédiaires
+04000,Commune de Digne-Les-Bains - Archives communales,,Archives,,Archives,DIGNE-LES-BAINS,44.09326696,6.23546967,93,Provence-Alpes-Côte d Azur,04,ALPES-DE-HAUTE-PROVENCE,3 - Petites villes
+04000,Archives départementales des Alpes-de-Haute-Provence,,Archives,,Archives,DIGNE-LES-BAINS,44.09038738,6.23865725,93,Provence-Alpes-Côte d Azur,04,ALPES-DE-HAUTE-PROVENCE,3 - Petites villes
+04300,Commune de Forcalquier - Archives municipales,,Archives,,Archives,FORCALQUIER,43.96009264,5.78057735,93,Provence-Alpes-Côte d Azur,04,ALPES-DE-HAUTE-PROVENCE,3 - Petites villes
+09000,Archives départementales de L ariège,,Archives,,Archives,FOIX,42.95619912,1.60413034,76,Occitanie,09,ARIEGE,3 - Petites villes
+09100,Commune de Pamiers - Service des Archives,,Archives,,Archives,PAMIERS,43.11183344,1.60916472,76,Occitanie,09,ARIEGE,2 - Centres urbains intermédiaires
+12200,Commune de Villefranche-de-Rouergue - Archives municipales,,Archives,,Archives,VILLEFRANCHE-DE-ROUERGUE,44.34966969,2.03716149,76,Occitanie,12,AVEYRON,3 - Petites villes
+16000,Archives départementales de La Charente,,Archives,,Archives,ANGOULÊME,45.65202138,0.16278615,75,Nouvelle-Aquitaine,16,CHARENTE,2 - Centres urbains intermédiaires
+16000,Commune D angoulême - Archives municipales,,Archives,,Archives,ANGOULÊME,45.64517002,0.15372174,75,Nouvelle-Aquitaine,16,CHARENTE,2 - Centres urbains intermédiaires
+16000,Communauté D agglomération du Grand Angoulême - Service des Archives,,Archives,,Archives,ANGOULÊME,45.65936732,0.16089265,75,Nouvelle-Aquitaine,16,CHARENTE,2 - Centres urbains intermédiaires
+16100,Communauté D agglomération du Grand Cognac - Service D accompagnement de L archivage,,Archives,,Archives,COGNAC,45.68022148,-0.3378619,75,Nouvelle-Aquitaine,16,CHARENTE,2 - Centres urbains intermédiaires
+32000,Archives départementales du Gers,,Archives,,Archives,AUCH,43.64159919,0.60177818,76,Occitanie,32,GERS,2 - Centres urbains intermédiaires
+59820,Commune de Gravelines - Archives municipales,,Archives,,Archives,GRAVELINES,50.985401,2.12575679,32,Hauts-de-France,59,NORD,3 - Petites villes
+62100,Commune de Calais - Archives communales,,Archives,,Archives,CALAIS,50.95146418,1.86005076,32,Hauts-de-France,62,PAS-DE-CALAIS,1 - Grands centres urbains
+68000,Archives départementales du Haut-Rhin,,Archives,,Archives,COLMAR,48.084797,7.359348,44,Grand Est,68,HAUT-RHIN,1 - Grands centres urbains
+68000,Commune de Colmar - Archives municipales,,Archives,,Archives,COLMAR,48.07946515,7.35796767,44,Grand Est,68,HAUT-RHIN,1 - Grands centres urbains
+68150,Commune de Ribeauvillé - Archives municipales,,Archives,,Archives,RIBEAUVILLÉ,48.19562103,7.31661929,44,Grand Est,68,HAUT-RHIN,3 - Petites villes
+84700,Commune de Sorgues - Archives communales,,Archives,,Archives,SORGUES,44.00652173,4.87867606,93,Provence-Alpes-Côte d Azur,84,VAUCLUSE,2 - Centres urbains intermédiaires
+84200,Commune de Carpentras - Archives communales,,Archives,,Archives,CARPENTRAS,44.05425353,5.04517093,93,Provence-Alpes-Côte d Azur,84,VAUCLUSE,2 - Centres urbains intermédiaires
+84200,Communauté D agglomération Ventoux-Comtat Venaissin - Archives Communautaires,,Archives,,Archives,CARPENTRAS,44.05903144,5.06690159,93,Provence-Alpes-Côte d Azur,84,VAUCLUSE,2 - Centres urbains intermédiaires
+84500,Commune de Bollène - Archives communales,,Archives,,Archives,BOLLÈNE,44.280179,4.748183,93,Provence-Alpes-Côte d Azur,84,VAUCLUSE,3 - Petites villes
+84300,Commune de Cavaillon - Archives municipales,,Archives,,Archives,CAVAILLON,43.83805967,5.03605424,93,Provence-Alpes-Côte d Azur,84,VAUCLUSE,2 - Centres urbains intermédiaires
+91000,Communauté D agglomération Grand Paris Sud - Direction Documentation Et Archives,,Archives,,Archives,EVRY-COURCOURONNES,48.61657994,2.53898145,11,Île-de-France,91,ESSONNE,1 - Grands centres urbains
+91860,Commune D epinay-Sous-Sénart - Service des Archives,,Archives,,Archives,EPINAY-SOUS-SÉNART,48.69493995,2.51526159,11,Île-de-France,91,ESSONNE,1 - Grands centres urbains
+91380,Commune de Chilly-Mazarin - Service des Archives,,Archives,,Archives,CHILLY-MAZARIN,48.70198872,2.31831861,11,Île-de-France,91,ESSONNE,1 - Grands centres urbains
+91600,Commune de Savigny-Sur-Orge - Service Archives Documentation,,Archives,,Archives,SAVIGNY-SUR-ORGE,48.67963479,2.34531232,11,Île-de-France,91,ESSONNE,1 - Grands centres urbains
+91360,Annexe de Villemoisson,,Archives,,Archives,VILLEMOISSON-SUR-ORGE,48.66635624,2.33670235,11,Île-de-France,91,ESSONNE,1 - Grands centres urbains
+91400,Commune D orsay - Service des Archives,,Archives,,Archives,ORSAY,48.69903058,2.18765332,11,Île-de-France,91,ESSONNE,1 - Grands centres urbains
+91300,Commune de Massy - Service Documentation-Archives,,Archives,,Archives,MASSY,48.73093437,2.27168221,11,Île-de-France,91,ESSONNE,1 - Grands centres urbains
+15100,Commune de Saint-Flour - Archives municipales,,Archives,,Archives,SAINT-FLOUR,45.03492783,3.09240608,84,Auvergne-Rhône-Alpes,15,CANTAL,3 - Petites villes
+15000,Archives départementales du Cantal,,Archives,,Archives,AURILLAC,44.92447498,2.44411374,84,Auvergne-Rhône-Alpes,15,CANTAL,2 - Centres urbains intermédiaires
+15000,Commune D aurillac - Service Archives Et Documentation,,Archives,,Archives,AURILLAC,44.93091456,2.44475998,84,Auvergne-Rhône-Alpes,15,CANTAL,2 - Centres urbains intermédiaires
+40100,Commune de Dax - Archives municipales,,Archives,,Archives,DAX,43.70879435,-1.05122138,75,Nouvelle-Aquitaine,40,LANDES,2 - Centres urbains intermédiaires
+47200,Commune de Marmande - Service des Archives,,Archives,,Archives,MARMANDE,44.49843139,0.16623361,75,Nouvelle-Aquitaine,47,LOT-ET-GARONNE,2 - Centres urbains intermédiaires
+51200,Commune D epernay - Archives municipales,,Archives,,Archives,EPERNAY,49.03839581,3.95747377,44,Grand Est,51,MARNE,2 - Centres urbains intermédiaires
+51000,Commune de Châlons-En-Champagne - Archives municipales,,Archives,,Archives,CHÂLONS-EN-CHAMPAGNE,48.96013555,4.36589002,44,Grand Est,51,MARNE,2 - Centres urbains intermédiaires
+51000,Archives départementales de La Marne,,Archives,,Archives,CHÂLONS-EN-CHAMPAGNE,48.95337025,4.36703724,44,Grand Est,51,MARNE,2 - Centres urbains intermédiaires
+51000,Conseil régional Grand-Est - Site de Châlons-En-Champagne - Service des Archives,,Archives,,Archives,CHÂLONS-EN-CHAMPAGNE,48.95155251,4.37050418,44,Grand Est,51,MARNE,2 - Centres urbains intermédiaires
+60100,Commune de Creil - Archives municipales,,Archives,,Archives,CREIL,49.260793,2.473388,32,Hauts-de-France,60,OISE,1 - Grands centres urbains
+02200,Commune de Soissons - Archives municipales,,Archives,,Archives,SOISSONS,49.38400966,3.32837378,32,Hauts-de-France,02,AISNE,2 - Centres urbains intermédiaires
+13270,Commune de Fos-Sur-Mer - Archives municipales,,Archives,,Archives,FOS-SUR-MER,43.4497796,4.93638394,93,Provence-Alpes-Côte d Azur,13,BOUCHES-DU-RHONE,2 - Centres urbains intermédiaires
+84120,Commune de Pertuis - Archives communales,,Archives,,Archives,PERTUIS,43.69393645,5.50088205,93,Provence-Alpes-Côte d Azur,84,VAUCLUSE,2 - Centres urbains intermédiaires
+62500,Communauté D agglomération du Pays de Saint-Omer - Service des Archives Anciennes,,Archives,,Archives,SAINT-OMER,50.74758565,2.25750429,32,Hauts-de-France,62,PAS-DE-CALAIS,2 - Centres urbains intermédiaires
+02300,Centre de gestion de la fonction publique territoriale de L aisne - Mission Archives,,Archives,,Archives,CHAUNY,49.62526445,3.22191287,32,Hauts-de-France,02,AISNE,2 - Centres urbains intermédiaires
+79100,Commune de Thouars - Archives municipales,,Archives,,Archives,THOUARS,46.97687027,-0.21695322,75,Nouvelle-Aquitaine,79,DEUX-SEVRES,3 - Petites villes
+11400,Commune de Castelnaudary - Archives municipales,,Archives,,Archives,CASTELNAUDARY,43.31661697,1.95091075,76,Occitanie,11,AUDE,2 - Centres urbains intermédiaires
+36100,Commune D issoudun - Archives municipales,,Archives,,Archives,ISSOUDUN,46.94089354,1.99760202,24,Centre-Val de Loire,36,INDRE,2 - Centres urbains intermédiaires
+92300,Commune de Levallois-Perret - Service Archives-Documentation,,Archives,,Archives,LEVALLOIS-PERRET,48.89904641,2.28505144,11,Île-de-France,92,HAUTS-DE-SEINE,1 - Grands centres urbains
+28300,Commune de Mainvilliers - Archives communales,,Archives,,Archives,MAINVILLIERS,48.45096758,1.46294678,24,Centre-Val de Loire,28,EURE-ET-LOIR,1 - Grands centres urbains
+10100,Commune de Romilly-Sur-Seine - Service des Archives,,Archives,,Archives,ROMILLY-SUR-SEINE,48.51898199,3.72669067,44,Grand Est,10,AUBE,2 - Centres urbains intermédiaires
+76400,Commune de Fécamp - Archives municipales,,Archives,,Archives,FÉCAMP,49.754968,0.380987,28,Normandie,76,SEINE-MARITIME,2 - Centres urbains intermédiaires
+29800,Commune de Landerneau - Service Art Patrimoine Et Archives,,Archives,,Archives,LANDERNEAU,48.448615,-4.259647,53,Bretagne,29,FINISTERE,2 - Centres urbains intermédiaires
+13150,Commune de Tarascon - Archives municipales,,Archives,,Archives,TARASCON,43.804548,4.657303,93,Provence-Alpes-Côte d Azur,13,BOUCHES-DU-RHONE,2 - Centres urbains intermédiaires
+59280,Commune D armentières - Archives communales,,Archives,,Archives,ARMENTIÈRES,50.68667127,2.88251353,32,Hauts-de-France,59,NORD,2 - Centres urbains intermédiaires
+51100,Commune de Reims - Archives municipales Et Communautaires,,Archives,,Archives,REIMS,49.22997047,4.07733603,44,Grand Est,51,MARNE,1 - Grands centres urbains
+51100,Centre de Reims,,Archives,,Archives,REIMS,49.24570039,4.06240947,44,Grand Est,51,MARNE,1 - Grands centres urbains
+33470,Commune de Gujan-Mestras - Archives municipales,,Archives,,Archives,GUJAN-MESTRAS,44.63812035,-1.06301937,75,Nouvelle-Aquitaine,33,GIRONDE,4 - Ceintures urbaines
+37700,Commune de Saint-Pierre-des-Corps - Archives municipales,,Archives,,Archives,SAINT-PIERRE-DES-CORPS,47.38903821,0.71873622,24,Centre-Val de Loire,37,INDRE-ET-LOIRE,1 - Grands centres urbains
+13127,Commune de Vitrolles - Service des Archives,,Archives,,Archives,VITROLLES,43.42943077,5.25687759,93,Provence-Alpes-Côte d Azur,13,BOUCHES-DU-RHONE,2 - Centres urbains intermédiaires
+44550,Commune de Montoir-de-Bretagne - Archives municipales,,Archives,,Archives,MONTOIR-DE-BRETAGNE,47.32722157,-2.15056414,52,Pays de la Loire,44,LOIRE-ATLANTIQUE,4 - Ceintures urbaines
+49000,Archives départementales du Maine-Et-Loire,,Archives,,Archives,ANGERS,47.45751722,-0.5593683,52,Pays de la Loire,49,MAINE-ET-LOIRE,1 - Grands centres urbains
+49000,Commune D angers - Service Archives Patrimoniales,,Archives,,Archives,ANGERS,47.451414,-0.562318,52,Pays de la Loire,49,MAINE-ET-LOIRE,1 - Grands centres urbains
+49000,Communauté Urbaine Angers Loire Métropole Et Ville D angers - Service Archives Vivantes,,Archives,,Archives,ANGERS,47.4718818,-0.54791429,52,Pays de la Loire,49,MAINE-ET-LOIRE,1 - Grands centres urbains
+59250,Commune de Halluin - Archives municipales,,Archives,,Archives,HALLUIN,50.78252595,3.13487351,32,Hauts-de-France,59,NORD,1 - Grands centres urbains
+33110,Commune du Bouscat - Archives communales,,Archives,,Archives,LE_BOUSCAT,44.8656003,-0.60026046,75,Nouvelle-Aquitaine,33,GIRONDE,1 - Grands centres urbains
+64600,Commune D anglet - Service des Archives,,Archives,,Archives,ANGLET,43.48047866,-1.51644702,75,Nouvelle-Aquitaine,64,PYRENEES-ATLANTIQUES,1 - Grands centres urbains
+42700,Commune de Firminy - Archives municipales,,Archives,,Archives,FIRMINY,45.38916703,4.28741939,84,Auvergne-Rhône-Alpes,42,LOIRE,2 - Centres urbains intermédiaires
+13200,Conseil régional de Provence-Alpes-Côte D azur - Service des Archives,,Archives,,Archives,MARSEILLE,43.340366,5.366706,93,Provence-Alpes-Côte d Azur,13,BOUCHES-DU-RHONE,1 - Grands centres urbains
+13200,Conseil de Territoire Marseille Provence - Service des Archives,,Archives,,Archives,MARSEILLE,48.016643,0.180554,93,Provence-Alpes-Côte d Azur,13,BOUCHES-DU-RHONE,1 - Grands centres urbains
+13200,Commune de Marseille - Archives municipales,,Archives,,Archives,MARSEILLE,43.30895639,5.38755344,93,Provence-Alpes-Côte d Azur,13,BOUCHES-DU-RHONE,1 - Grands centres urbains
+13200,Commune D arles - Archives communales,,Archives,,Archives,ARLES,43.67580007,4.62552926,93,Provence-Alpes-Côte d Azur,13,BOUCHES-DU-RHONE,2 - Centres urbains intermédiaires
+13200,Archives départementales des Bouches-du-Rhône,,Archives,,Archives,MARSEILLE,43.31052854,5.36941035,93,Provence-Alpes-Côte d Azur,13,BOUCHES-DU-RHONE,1 - Grands centres urbains
+10300,Centre de Gestion de La Fonction Publique Territoriale de L aube - Service des Archives,,Archives,,Archives,SAINTE-SAVINE,48.29594126,4.00035298,44,Grand Est,10,AUBE,1 - Grands centres urbains
+33700,Commune de Mérignac - Archives communales,,Archives,,Archives,MÉRIGNAC,44.84534812,-0.65732249,75,Nouvelle-Aquitaine,33,GIRONDE,1 - Grands centres urbains
+78140,Commune de Vélizy-Villacoublay - Archives municipales,,Archives,,Archives,VÉLIZY-VILLACOUBLAY,48.78278522,2.19044317,11,Île-de-France,78,YVELINES,1 - Grands centres urbains
+44350,Commune de Guérande - Service des Archives,,Archives,,Archives,GUÉRANDE,47.32757063,-2.42637859,52,Pays de la Loire,44,LOIRE-ATLANTIQUE,4 - Ceintures urbaines
+34200,Commune de Sète - Archives municipales,,Archives,,Archives,SÈTE,43.40584402,3.69408991,76,Occitanie,34,HERAULT,2 - Centres urbains intermédiaires
+77300,Commune de Fontainebleau - Archives municipales,,Archives,,Archives,FONTAINEBLEAU,48.40468084,2.70104109,11,Île-de-France,77,SEINE-ET-MARNE,2 - Centres urbains intermédiaires
+85000,Archives départementales de La Vendée,,Archives,,Archives,LA_ROCHE-SUR-YON,46.66870145,-1.42824885,52,Pays de la Loire,85,VENDEE,2 - Centres urbains intermédiaires
+85000,Centre de gestion de la fonction publique territoriale de La Vendée - Service Conseil Archives,,Archives,,Archives,LA_ROCHE-SUR-YON,46.67152716,-1.3993549,52,Pays de la Loire,85,VENDEE,2 - Centres urbains intermédiaires
+85000,Commune de La Roche-Sur-Yon - Service Histoire Archives Et Patrimoine,,Archives,,Archives,LA_ROCHE-SUR-YON,46.66887772,-1.42926962,52,Pays de la Loire,85,VENDEE,2 - Centres urbains intermédiaires
+92210,Commune de Saint-Cloud - Service Archives,,Archives,,Archives,SAINT-CLOUD,48.84372316,2.21924705,11,Île-de-France,92,HAUTS-DE-SEINE,1 - Grands centres urbains
+94380,Commune de Bonneuil-Sur-Marne - Service Archives-Documentation,,Archives,,Archives,BONNEUIL-SUR-MARNE,48.76999801,2.48446094,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+33120,Commune D arcachon - Service des Archives,,Archives,,Archives,ARCACHON,44.660679,-1.173982,75,Nouvelle-Aquitaine,33,GIRONDE,4 - Ceintures urbaines
+77360,Commune de Vaires-Sur-Marne - Service Archives-Documentation,,Archives,,Archives,VAIRES-SUR-MARNE,48.87317562,2.63908251,11,Île-de-France,77,SEINE-ET-MARNE,1 - Grands centres urbains
+62400,Commune de Béthune - Archives municipales,,Archives,,Archives,BÉTHUNE,50.53060757,2.638441,32,Hauts-de-France,62,PAS-DE-CALAIS,2 - Centres urbains intermédiaires
+62400,Salle de Consultation des Documents Numérisés,,Archives,,Archives,BÉTHUNE,50.53366839,2.63737351,32,Hauts-de-France,62,PAS-DE-CALAIS,2 - Centres urbains intermédiaires
+62400,Communauté D agglomération de Béthune Bruay Lys Romane - Service des Archives,,Archives,,Archives,BÉTHUNE,50.51618638,2.62683874,32,Hauts-de-France,62,PAS-DE-CALAIS,2 - Centres urbains intermédiaires
+66000,Archives départementales des Pyrénées-Orientales,,Archives,,Archives,PERPIGNAN,42.67836901,2.90176755,76,Occitanie,66,PYRENEES-ORIENTALES,1 - Grands centres urbains
+66000,Commune de Perpignan - Archives communales,,Archives,,Archives,PERPIGNAN,42.70079169,2.898599,76,Occitanie,66,PYRENEES-ORIENTALES,1 - Grands centres urbains
+70000,Archives départementales de La Haute-Saône,,Archives,,Archives,VESOUL,47.62806555,6.16039219,27,Bourgogne-Franche-Comté,70,HAUTE-SAONE,2 - Centres urbains intermédiaires
+70000,Commune de Vesoul - Archives municipales,,Archives,,Archives,VESOUL,47.619709,6.15464907,27,Bourgogne-Franche-Comté,70,HAUTE-SAONE,2 - Centres urbains intermédiaires
+70000,Centre de gestion de la fonction publique territoriale - Service des Archives,,Archives,,Archives,VESOUL,47.62360801,6.162105,27,Bourgogne-Franche-Comté,70,HAUTE-SAONE,2 - Centres urbains intermédiaires
+27140,Commune de Gisors - Archives municipales,,Archives,,Archives,GISORS,49.27878467,1.77673855,28,Normandie,27,EURE,2 - Centres urbains intermédiaires
+53600,Archives municipales Et Communautaires D evron-Coëvrons,,Archives,,Archives,EVRON,48.15639067,-0.40084669,52,Pays de la Loire,53,MAYENNE,3 - Petites villes
+67160,Commune de Wissembourg - Archives municipales,,Archives,,Archives,WISSEMBOURG,49.03515732,7.94643044,44,Grand Est,67,BAS-RHIN,3 - Petites villes
+91270,Commune de Vigneux-Sur-Seine - Service Archives Documentation,,Archives,,Archives,VIGNEUX-SUR-SEINE,48.70302019,2.40857688,11,Île-de-France,91,ESSONNE,1 - Grands centres urbains
+73800,Centre de gestion de la fonction publique territoriale de Savoie,,Archives,,Archives,PORTE-DE-SAVOIE,45.479065,6.031065,84,Auvergne-Rhône-Alpes,73,SAVOIE,5 - Bourgs ruraux
+70200,Commune de Lure - Archives municipales,,Archives,,Archives,LURE,47.6860008,6.4944715,27,Bourgogne-Franche-Comté,70,HAUTE-SAONE,2 - Centres urbains intermédiaires
+40140,Commune de Soustons - Centre des Archives Et de L histoire Locale,,Archives,,Archives,SOUSTONS,43.7558538,-1.32682043,75,Nouvelle-Aquitaine,40,LANDES,3 - Petites villes
+92380,Commune de Garches - Archives-Documentation,,Archives,,Archives,GARCHES,48.84343567,2.18720943,11,Île-de-France,92,HAUTS-DE-SEINE,1 - Grands centres urbains
+26170,Commune de Buis-Les-Baronnies - Archives municipales,,Archives,,Archives,BUIS-LES-BARONNIES,44.275969,5.272643,84,Auvergne-Rhône-Alpes,26,DROME,5 - Bourgs ruraux
+38000,Commune de Grenoble - Archives municipales Et Métropolitaines,,Archives,,Archives,GRENOBLE,45.18678161,5.73616542,84,Auvergne-Rhône-Alpes,38,ISERE,1 - Grands centres urbains
+38000,Archives départementales de L isère,,Archives,,Archives,GRENOBLE,45.191075,5.737295,84,Auvergne-Rhône-Alpes,38,ISERE,1 - Grands centres urbains
+13600,Commune de La Ciotat - Service Archives-Documentation,,Archives,,Archives,LA_CIOTAT,43.17368243,5.60562602,93,Provence-Alpes-Côte d Azur,13,BOUCHES-DU-RHONE,2 - Centres urbains intermédiaires
+37500,Commune de Chinon - Archives municipales,,Archives,,Archives,CHINON,47.16737695,0.25238958,24,Centre-Val de Loire,37,INDRE-ET-LOIRE,3 - Petites villes
+68570,Commune de Soultzmatt-Wintzfelden - Archives municipales,,Archives,,Archives,SOULTZMATT,47.96109005,7.2398385,44,Grand Est,68,HAUT-RHIN,5 - Bourgs ruraux
+11100,Communauté D agglomération du Grand Narbonne - Service Archives,,Archives,,Archives,NARBONNE,43.18550444,3.00133247,76,Occitanie,11,AUDE,2 - Centres urbains intermédiaires
+11100,Commune de Narbonne - Archives municipales,,Archives,,Archives,NARBONNE,43.18420699,3.00282947,76,Occitanie,11,AUDE,2 - Centres urbains intermédiaires
+28400,Commune de Nogent-Le-Rotrou - Archives municipales,,Archives,,Archives,NOGENT-LE-ROTROU,48.32173197,0.82180625,24,Centre-Val de Loire,28,EURE-ET-LOIR,3 - Petites villes
+26000,Archives départementales de La Drôme,,Archives,,Archives,VALENCE,44.93568985,4.89124837,84,Auvergne-Rhône-Alpes,26,DROME,1 - Grands centres urbains
+26000,Centre de gestion de la fonction publique territoriale de La Drôme - Service des Archives,,Archives,,Archives,VALENCE,44.933555,4.894799,84,Auvergne-Rhône-Alpes,26,DROME,1 - Grands centres urbains
+26000,Commune de Valence - Archives municipales,,Archives,,Archives,VALENCE,44.93395765,4.89237799,84,Auvergne-Rhône-Alpes,26,DROME,1 - Grands centres urbains
+91150,Commune D etampes - Direction des Affaires Culturelles du Patrimoine des Archives Et des Jumelages,,Archives,,Archives,ETAMPES,48.43554058,2.16092099,11,Île-de-France,91,ESSONNE,2 - Centres urbains intermédiaires
+59430,Commune de dunkerque - Archives de dunkerque - Centre de La Mémoire Urbaine D agglomération,,Archives,,Archives,DUNKERQUE,51.034178,2.331641,32,Hauts-de-France,59,NORD,1 - Grands centres urbains
+39100,Commune de Dole - Archives municipales de Dole,,Archives,,Archives,DOLE,47.0901778,5.49280892,27,Bourgogne-Franche-Comté,39,JURA,2 - Centres urbains intermédiaires
+57200,Commune de Sarreguemines - Archives municipales,,Archives,,Archives,SARREGUEMINES,49.10804729,7.06642703,44,Grand Est,57,MOSELLE,3 - Petites villes
+33500,Commune de Libourne - Service Histoire-Archives,,Archives,,Archives,LIBOURNE,44.91779741,-0.22684275,75,Nouvelle-Aquitaine,33,GIRONDE,2 - Centres urbains intermédiaires
+61100,Flers Agglo - Service des Archives,,Archives,,Archives,FLERS,48.74957181,-0.55893468,28,Normandie,61,ORNE,2 - Centres urbains intermédiaires
+19000,Archives départementales de La Corrèze,,Archives,,Archives,TULLE,45.27441339,1.76738017,75,Nouvelle-Aquitaine,19,CORREZE,3 - Petites villes
+19000,Commune de Tulle - Service des Archives,,Archives,,Archives,TULLE,45.26419418,1.77001037,75,Nouvelle-Aquitaine,19,CORREZE,3 - Petites villes
+05000,Centre de gestion de la fonction publique territoriale des Hautes-Alpes - Service des Archives,,Archives,,Archives,GAP,44.54395255,6.06453225,93,Provence-Alpes-Côte d Azur,05,HAUTES-ALPES,2 - Centres urbains intermédiaires
+05000,Archives départementales des Hautes-Alpes,,Archives,,Archives,GAP,44.56114538,6.09595234,93,Provence-Alpes-Côte d Azur,05,HAUTES-ALPES,2 - Centres urbains intermédiaires
+93390,Commune de Clichy-Sous-Bois - Archives municipales,,Archives,,Archives,CLICHY-SOUS-BOIS,48.91094646,2.54589781,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+45130,Commune de Meung-Sur-Loire - Archives municipales,,Archives,,Archives,MEUNG-SUR-LOIRE,47.82841042,1.69792853,24,Centre-Val de Loire,45,LOIRET,3 - Petites villes
+88000,Centre de gestion de la fonction publique territoriale des Vosges - Service D archivage Itinérant,,Archives,,Archives,EPINAL,48.17370382,6.44217044,44,Grand Est,88,VOSGES,2 - Centres urbains intermédiaires
+88000,Commune D epinal - Archives municipales,,Archives,,Archives,EPINAL,48.17390035,6.45264687,44,Grand Est,88,VOSGES,2 - Centres urbains intermédiaires
+88000,Archives départementales des Vosges,,Archives,,Archives,EPINAL,48.19885496,6.46038536,44,Grand Est,88,VOSGES,2 - Centres urbains intermédiaires
+53200,Ville Et Communauté de Communes du Pays de Château-Gontier - Service des Archives,,Archives,,Archives,CHÂTEAU-GONTIER-SUR-MAYENNE,47.82631509,-0.7069176,52,Pays de la Loire,53,MAYENNE,2 - Centres urbains intermédiaires
+68300,Commune de Saint-Louis - Archives municipales,,Archives,,Archives,SAINT-LOUIS,47.58593939,7.56116109,44,Grand Est,68,HAUT-RHIN,1 - Grands centres urbains
+68300,Saint-Louis Agglomération - Service des Archives,,Archives,,Archives,SAINT-LOUIS,47.58649299,7.56264505,44,Grand Est,68,HAUT-RHIN,1 - Grands centres urbains
+92250,Commune de La Garenne-Colombes - Service des Archives,,Archives,,Archives,LA_GARENNE-COLOMBES,48.90709142,2.2465176,11,Île-de-France,92,HAUTS-DE-SEINE,1 - Grands centres urbains
+60800,Commune de Crépy-En-Valois - Archives municipales,,Archives,,Archives,CRÉPY-EN-VALOIS,49.23598711,2.88994468,32,Hauts-de-France,60,OISE,2 - Centres urbains intermédiaires
+38120,Commune de Saint-Egrève - Service Documentation-Archives,,Archives,,Archives,SAINT-EGRÈVE,45.23315272,5.6813977,84,Auvergne-Rhône-Alpes,38,ISERE,1 - Grands centres urbains
+29900,Concarneau Cornouaille Agglomération - Service des Archives,,Archives,,Archives,CONCARNEAU,47.902789,-3.906527,53,Bretagne,29,FINISTERE,3 - Petites villes
+29900,Commune de Concarneau - Service Archives-Patrimoine,,Archives,,Archives,CONCARNEAU,47.87018251,-3.91942344,53,Bretagne,29,FINISTERE,3 - Petites villes
+21500,Commune de Montbard - Service des Archives,,Archives,,Archives,MONTBARD,47.62447569,4.33747147,27,Bourgogne-Franche-Comté,21,COTE-D OR,5 - Bourgs ruraux
+67150,Commune de Erstein - Archives municipales,,Archives,,Archives,ERSTEIN,48.42315158,7.66445406,44,Grand Est,67,BAS-RHIN,2 - Centres urbains intermédiaires
+76610,Commune du Havre - Archives municipales,,Archives,,Archives,LE_HAVRE,49.508552,0.173741,28,Normandie,76,SEINE-MARITIME,1 - Grands centres urbains
+74100,Communauté D agglomération D annemasse-Les-Voirons - Service des Archives,,Archives,,Archives,ANNEMASSE,46.19665156,6.23240879,84,Auvergne-Rhône-Alpes,74,HAUTE-SAVOIE,1 - Grands centres urbains
+74100,Commune D annemasse - Archives municipales,,Archives,,Archives,ANNEMASSE,46.19332607,6.23413254,84,Auvergne-Rhône-Alpes,74,HAUTE-SAVOIE,1 - Grands centres urbains
+84130,Commune du Pontet - Archives municipales,,Archives,,Archives,LE_PONTET,43.96013826,4.86530602,93,Provence-Alpes-Côte d Azur,84,VAUCLUSE,1 - Grands centres urbains
+89300,Commune de Joigny - Archives municipales,,Archives,,Archives,JOIGNY,47.98069793,3.40052043,27,Bourgogne-Franche-Comté,89,YONNE,3 - Petites villes
+68500,Commune de Guebwiller - Archives municipales,,Archives,,Archives,GUEBWILLER,47.90841797,7.21193583,44,Grand Est,68,HAUT-RHIN,2 - Centres urbains intermédiaires
+78200,Commune de Mantes-La-Jolie - Archives municipales,,Archives,,Archives,MANTES-LA-JOLIE,48.98907732,1.71552818,11,Île-de-France,78,YVELINES,1 - Grands centres urbains
+78200,Communauté Urbaine du Grand Paris Seine-Et-Oise   - Service des Archives,,Archives,,Archives,MAGNANVILLE,48.97636761,1.69333699,11,Île-de-France,78,YVELINES,1 - Grands centres urbains
+62120,Commune D aire-Sur-La-Lys - Archives municipales,,Archives,,Archives,AIRE-SUR-LA-LYS,50.63842,2.39509,32,Hauts-de-France,62,PAS-DE-CALAIS,3 - Petites villes
+59200,Commune de Tourcoing - Archives municipales,,Archives,,Archives,TOURCOING,50.71641884,3.16056928,32,Hauts-de-France,59,NORD,1 - Grands centres urbains
+91140,Commune de Villebon-Sur-Yvette - Service des Archives,,Archives,,Archives,VILLEBON-SUR-YVETTE,48.70038298,2.22614433,11,Île-de-France,91,ESSONNE,1 - Grands centres urbains
+40800,Commune de Aire-Sur-L adour - Archives municipales,,Archives,,Archives,AIRE-SUR-L_ADOUR,43.69989728,-0.2623583,75,Nouvelle-Aquitaine,40,LANDES,5 - Bourgs ruraux
+30700,Commune D uzès - Archives municipales,,Archives,,Archives,UZÈS,44.0125067,4.42234901,76,Occitanie,30,GARD,3 - Petites villes
+89100,Communauté D agglomération du Grand Sénonais - Service des Archives,,Archives,,Archives,SENS,48.19890713,3.28274553,27,Bourgogne-Franche-Comté,89,YONNE,2 - Centres urbains intermédiaires
+93220,Commune de Gagny - Service Archives-Documentation,,Archives,,Archives,GAGNY,48.87678861,2.55126816,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+92310,Commune de Sèvres - Archives communales,,Archives,,Archives,SÈVRES,48.82216988,2.22104068,11,Île-de-France,92,HAUTS-DE-SEINE,1 - Grands centres urbains
+33380,Commune de Mios - Service Archives-Documentation,,Archives,,Archives,MIOS,44.60513099,-0.93775104,75,Nouvelle-Aquitaine,33,GIRONDE,5 - Bourgs ruraux
+53810,Centre de gestion de la fonction publique territoriale de La Mayenne - Service des Archives,,Archives,,Archives,CHANGÉ,48.093009,-0.760991,52,Pays de la Loire,53,MAYENNE,4 - Ceintures urbaines
+17500,Site de Jonzac,,Archives,,Archives,JONZAC,45.44642494,-0.43255451,75,Nouvelle-Aquitaine,17,CHARENTE-MARITIME,5 - Bourgs ruraux
+61200,Commune D argentan - Archives municipales,,Archives,,Archives,ARGENTAN,48.74390843,-0.01777085,28,Normandie,61,ORNE,2 - Centres urbains intermédiaires
+35000,Archives départementales Et du Patrimoine D ille Et Vilaine,,Archives,,Archives,RENNES,48.12904712,-1.69284532,53,Bretagne,35,ILLE-ET-VILAINE,1 - Grands centres urbains
+35000,Conseil régional de Bretagne - Service des Archives,,Archives,,Archives,RENNES,48.13418387,-1.66024698,53,Bretagne,35,ILLE-ET-VILAINE,1 - Grands centres urbains
+35000,Commune de Rennes - Archives municipales,,Archives,,Archives,RENNES,48.11954509,-1.67112348,53,Bretagne,35,ILLE-ET-VILAINE,1 - Grands centres urbains
+11000,Archives départementales de L aude,,Archives,,Archives,CARCASSONNE,43.22817056,2.34871163,76,Occitanie,11,AUDE,2 - Centres urbains intermédiaires
+11000,Carcassonne Agglomération - Service des Archives,,Archives,,Archives,CARCASSONNE,43.21309849,2.35790189,76,Occitanie,11,AUDE,2 - Centres urbains intermédiaires
+91730,Archives départementales de L essonne,,Archives,,Archives,CHAMARANDE,48.5132945,2.22190948,11,Île-de-France,91,ESSONNE,3 - Petites villes
+31700,Commune de Cornebarrieu - Service Archives,,Archives,,Archives,CORNEBARRIEU,43.64907299,1.32612804,76,Occitanie,31,HAUTE-GARONNE,4 - Ceintures urbaines
+31700,Commune de Blagnac - Service Documentation-Archives,,Archives,,Archives,BLAGNAC,43.63478799,1.39769412,76,Occitanie,31,HAUTE-GARONNE,1 - Grands centres urbains
+97300,Commune de Cayenne - Service des Archives,,Archives,,Archives,CAYENNE,4.940289,-52.32686,3,Guyane,973,GUYANE,1 - Grands centres urbains
+97300,Archives Territoriales de Guyane,,Archives,,Archives,CAYENNE,4.939652,-52.335308,3,Guyane,973,GUYANE,1 - Grands centres urbains
+84400,Commune D apt - Archives municipales,,Archives,,Archives,APT,43.87666493,5.39587143,93,Provence-Alpes-Côte d Azur,84,VAUCLUSE,2 - Centres urbains intermédiaires
+67500,Commune de Haguenau - Archives municipales,,Archives,,Archives,HAGUENAU,48.81283142,7.79147942,44,Grand Est,67,BAS-RHIN,2 - Centres urbains intermédiaires
+13250,Commune de Saint-Chamas - Archives municipales,,Archives,,Archives,SAINT-CHAMAS,43.552038,5.034803,93,Provence-Alpes-Côte d Azur,13,BOUCHES-DU-RHONE,4 - Ceintures urbaines
+76190,Commune D yvetot - Service des Archives,,Archives,,Archives,YVETOT,49.61717517,0.7556475,28,Normandie,76,SEINE-MARITIME,2 - Centres urbains intermédiaires
+14600,Commune de Honfleur - Archives municipales,,Archives,,Archives,HONFLEUR,49.41938886,0.23493767,28,Normandie,14,CALVADOS,3 - Petites villes
+37400,Commune D amboise - Archives municipales,,Archives,,Archives,AMBOISE,47.41320387,0.98444881,24,Centre-Val de Loire,37,INDRE-ET-LOIRE,3 - Petites villes
+85440,Commune de Talmont-Saint-Hilaire - Service  Archives - Documentation,,Archives,,Archives,TALMONT-SAINT-HILAIRE,46.46629535,-1.61780227,52,Pays de la Loire,85,VENDEE,5 - Bourgs ruraux
+89290,Commune D auxerre - Archives municipales,,Archives,,Archives,AUXERRE,47.79609246,3.57011061,27,Bourgogne-Franche-Comté,89,YONNE,2 - Centres urbains intermédiaires
+89290,Centre de gestion de la fonction publique territoriale de L yonne - Mission Archives,,Archives,,Archives,AUXERRE,47.79184579,3.55448423,27,Bourgogne-Franche-Comté,89,YONNE,2 - Centres urbains intermédiaires
+89290,Archives départementales de L yonne,,Archives,,Archives,AUXERRE,47.8009825,3.57097562,27,Bourgogne-Franche-Comté,89,YONNE,2 - Centres urbains intermédiaires
+12100,Commune de Millau - Archives communales,,Archives,,Archives,MILLAU,44.095117,3.080505,76,Occitanie,12,AVEYRON,2 - Centres urbains intermédiaires
+33430,Commune de Bazas - Archives communales,,Archives,,Archives,BAZAS,44.43152304,-0.21215935,75,Nouvelle-Aquitaine,33,GIRONDE,5 - Bourgs ruraux
+60280,Agglomération de La Région de Compiègne Et de La Basse Automne - Service des Archives,,Archives,,Archives,MARGNY-LÈS-COMPIÈGNE,49.4373202,2.79946432,32,Hauts-de-France,60,OISE,2 - Centres urbains intermédiaires
+68140,Communauté de Communes de La Vallée de Munster - Service des Archives,,Archives,,Archives,MUNSTER,48.040813,7.137291,44,Grand Est,68,HAUT-RHIN,3 - Petites villes
+68250,Commune de Rouffach - Archives municipales,,Archives,,Archives,ROUFFACH,47.956971,7.294766,44,Grand Est,68,HAUT-RHIN,5 - Bourgs ruraux
+73320,Archives municipales de Tignes,,Archives,,Archives,TIGNES,45.46949436,6.90839338,84,Auvergne-Rhône-Alpes,73,SAVOIE,6 - Rural à habitat dispersé
+33150,Commune de Cenon - Service Documentation Archives,,Archives,,Archives,CENON,44.8575962,-0.53100489,75,Nouvelle-Aquitaine,33,GIRONDE,1 - Grands centres urbains
+30100,Commune D alès - Archives municipales,,Archives,,Archives,ALÈS,44.12183655,4.08497716,76,Occitanie,30,GARD,2 - Centres urbains intermédiaires
+41000,Commune de Blois - Service Archives-Documentation,,Archives,,Archives,BLOIS,47.58876931,1.33605385,24,Centre-Val de Loire,41,LOIR-ET-CHER,2 - Centres urbains intermédiaires
+41000,Archives départementales du Loir-Et-Cher - Site des Archives Historiques,,Archives,,Archives,BLOIS,47.5937681,1.33670067,24,Centre-Val de Loire,41,LOIR-ET-CHER,2 - Centres urbains intermédiaires
+06400,Commune de Cannes - Archives municipales - Salle de Lecture,,Archives,,Archives,CANNES,43.562254,7.026324,93,Provence-Alpes-Côte d Azur,06,ALPES-MARITIMES,1 - Grands centres urbains
+06400,Commune de Cannes - Archives de Cannes - Salle D exposition,,Archives,,Archives,CANNES,43.55698028,7.02121592,93,Provence-Alpes-Côte d Azur,06,ALPES-MARITIMES,1 - Grands centres urbains
+94500,Commune de Champigny-Sur-Marne - Archives communales,,Archives,,Archives,CHAMPIGNY-SUR-MARNE,48.81985568,2.51507949,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+38140,Commune de Rives - Archives communales,,Archives,,Archives,RIVES,45.35949248,5.49195676,84,Auvergne-Rhône-Alpes,38,ISERE,4 - Ceintures urbaines
+78500,Commune de Sartrouville - Service Archives-Documentation,,Archives,,Archives,SARTROUVILLE,48.94104343,2.15837629,11,Île-de-France,78,YVELINES,1 - Grands centres urbains
+13220,Commune de Châteauneuf-Les-Martigues - Archives communales,,Archives,,Archives,CHÂTEAUNEUF-LES-MARTIGUES,43.376158,5.177447,93,Provence-Alpes-Côte d Azur,13,BOUCHES-DU-RHONE,2 - Centres urbains intermédiaires
+19320,Commune D argentat - Archives municipales,,Archives,,Archives,ARGENTAT-SUR-DORDOGNE,45.09333775,1.93536839,75,Nouvelle-Aquitaine,19,CORREZE,5 - Bourgs ruraux
+05100,Commune de Briançon - Service des Archives Et de La Documentation,,Archives,,Archives,BRIANÇON,44.89740498,6.63359406,93,Provence-Alpes-Côte d Azur,05,HAUTES-ALPES,2 - Centres urbains intermédiaires
+68110,Commune D illzach - Service des Archives Et de La Documentation,,Archives,,Archives,ILLZACH,47.78162146,7.34727596,44,Grand Est,68,HAUT-RHIN,1 - Grands centres urbains
+01100,Commune d Oyonnax - Archives municipales,,Archives,,Archives,OYONNAX,46.26680216,5.6500247,84,Auvergne-Rhône-Alpes,01,AIN,2 - Centres urbains intermédiaires
+59400,Commune de Cambrai - Archives municipales,,Archives,,Archives,CAMBRAI,50.17529373,3.2340045,32,Hauts-de-France,59,NORD,2 - Centres urbains intermédiaires
+33140,Commune de Villenave D ornon - Service Archives-Documentation,,Archives,,Archives,VILLENAVE-D_ORNON,44.77725734,-0.53296538,75,Nouvelle-Aquitaine,33,GIRONDE,1 - Grands centres urbains
+71000,Commune de Mâcon - Archives communales,,Archives,,Archives,MÂCON,46.299619,4.82974223,27,Bourgogne-Franche-Comté,71,SAONE-ET-LOIRE,2 - Centres urbains intermédiaires
+71000,Centre de gestion de la fonction publique territoriale de Saône-Et-Loire - Service des Archives,,Archives,,Archives,MÂCON,46.31068519,4.83444195,27,Bourgogne-Franche-Comté,71,SAONE-ET-LOIRE,2 - Centres urbains intermédiaires
+71000,Archives départementales de Saône-Et-Loire,,Archives,,Archives,MÂCON,46.30827515,4.83554872,27,Bourgogne-Franche-Comté,71,SAONE-ET-LOIRE,2 - Centres urbains intermédiaires
+88100,Commune de Saint-Dié-des-Vosges - Archives municipales,,Archives,,Archives,SAINT-DIÉ-DES-VOSGES,48.28706144,6.94699321,44,Grand Est,88,VOSGES,2 - Centres urbains intermédiaires
+26500,Commune de Bourg-Lès-Valence - Archives municipales,,Archives,,Archives,BOURG-LÈS-VALENCE,44.94723876,4.89371783,84,Auvergne-Rhône-Alpes,26,DROME,1 - Grands centres urbains
+05200,Commune D embrun - Archives communales,,Archives,,Archives,EMBRUN,44.56313999,6.49864385,93,Provence-Alpes-Côte d Azur,05,HAUTES-ALPES,3 - Petites villes
+91330,Commune D yerres - Service Archives Documentation,,Archives,,Archives,YERRES,48.72007009,2.49332219,11,Île-de-France,91,ESSONNE,1 - Grands centres urbains
+33270,Commune de Floirac - Archives communales,,Archives,,Archives,FLOIRAC,44.8305617,-0.52741796,75,Nouvelle-Aquitaine,33,GIRONDE,1 - Grands centres urbains
+95000,Archives départementales du Val-D oise,,Archives,,Archives,PONTOISE,49.03333765,2.08781457,11,Île-de-France,95,VAL-D OISE,1 - Grands centres urbains
+95000,Commune de Pontoise - Service Archives Documentation,,Archives,,Archives,PONTOISE,49.05107398,2.10041917,11,Île-de-France,95,VAL-D OISE,1 - Grands centres urbains
+34500,Commune de Béziers - Archives municipales,,Archives,,Archives,BÉZIERS,43.34258476,3.213926,76,Occitanie,34,HERAULT,1 - Grands centres urbains
+63200,Commune de Riom - Archives communales,,Archives,,Archives,RIOM,45.88667653,3.11734791,84,Auvergne-Rhône-Alpes,63,PUY-DE-DOME,2 - Centres urbains intermédiaires
+77700,Commune de Chessy - Archives communales,,Archives,,Archives,CHESSY,48.8797979,2.76593519,11,Île-de-France,77,SEINE-ET-MARNE,1 - Grands centres urbains
+77700,Val D europe Agglomération - Service Documentation-Archives,,Archives,,Archives,CHESSY,48.88188773,2.77271124,11,Île-de-France,77,SEINE-ET-MARNE,1 - Grands centres urbains
+68700,Archives municipales de Cernay - Archives municipales,,Archives,,Archives,CERNAY,47.80862194,7.17854867,44,Grand Est,68,HAUT-RHIN,2 - Centres urbains intermédiaires
+03100,Commune de Montluçon - Archives Et Documentation,,Archives,,Archives,MONTLUÇON,46.330503,2.604954,84,Auvergne-Rhône-Alpes,03,ALLIER,2 - Centres urbains intermédiaires
+56700,Commune de Hennebont - Archives communales,,Archives,,Archives,HENNEBONT,47.808715,-3.275276,53,Bretagne,56,MORBIHAN,3 - Petites villes
+95500,Commune de Gonesse - Service Archives Et Patrimoine,,Archives,,Archives,GONESSE,48.98500819,2.44656767,11,Île-de-France,95,VAL-D OISE,1 - Grands centres urbains
+60160,Commune de Montataire - Archives municipales,,Archives,,Archives,MONTATAIRE,49.262085,2.436271,32,Hauts-de-France,60,OISE,1 - Grands centres urbains
+62300,Commune de Lens - Service Archives-Documentation,,Archives,,Archives,LENS,50.42906484,2.83346797,32,Hauts-de-France,62,PAS-DE-CALAIS,1 - Grands centres urbains
+67400,Commune D illkirch-Graffenstaden - Service Archives-Documentation,,Archives,,Archives,ILLKIRCH-GRAFFENSTADEN,48.52851823,7.71081873,44,Grand Est,67,BAS-RHIN,1 - Grands centres urbains
+59320,Archives de La Mel Métropole Européenne de Lille,,Archives,,Archives,SEQUEDIN,50.633389,2.980447,32,Hauts-de-France,59,NORD,1 - Grands centres urbains
+77100,Commune de Meaux - Archives municipales,,Archives,,Archives,MEAUX,48.95873535,2.8776524,11,Île-de-France,77,SEINE-ET-MARNE,1 - Grands centres urbains
+63300,Commune de Thiers - Archives municipales,,Archives,,Archives,THIERS,45.85632646,3.5482393,84,Auvergne-Rhône-Alpes,63,PUY-DE-DOME,3 - Petites villes
+57070,Archives départementales de La Moselle,,Archives,,Archives,SAINT-JULIEN-LÈS-METZ,49.14150761,6.21732807,44,Grand Est,57,MOSELLE,1 - Grands centres urbains
+57070,Conseil régional Grand-Est - Site de Metz - Service des Archives,,Archives,,Archives,METZ,49.12500341,6.17569929,44,Grand Est,57,MOSELLE,1 - Grands centres urbains
+57070,Commune de Metz  - Archives municipales,,Archives,,Archives,METZ,49.11988136,6.17982842,44,Grand Est,57,MOSELLE,1 - Grands centres urbains
+57400,Commune de Sarrebourg - Archives municipales,,Archives,,Archives,SARREBOURG,48.73501225,7.05485726,44,Grand Est,57,MOSELLE,2 - Centres urbains intermédiaires
+43000,Communauté D agglomération du Puy-En-Velay - Service des Archives,,Archives,,Archives,LE_PUY-EN-VELAY,45.04786406,3.87690283,84,Auvergne-Rhône-Alpes,43,HAUTE-LOIRE,2 - Centres urbains intermédiaires
+43000,Commune du Puy-En-Velay - Service Archives-Documentation,,Archives,,Archives,LE_PUY-EN-VELAY,45.04359635,3.88332701,84,Auvergne-Rhône-Alpes,43,HAUTE-LOIRE,2 - Centres urbains intermédiaires
+43000,Archives départementales de La Haute-Loire,,Archives,,Archives,LE_PUY-EN-VELAY,45.04111657,3.90043558,84,Auvergne-Rhône-Alpes,43,HAUTE-LOIRE,2 - Centres urbains intermédiaires
+43000,Centre de gestion de la fonction publique territoriale de La Haute-Loire - Service des Archives,,Archives,,Archives,ESPALY-SAINT-MARCEL,45.04533198,3.86811386,84,Auvergne-Rhône-Alpes,43,HAUTE-LOIRE,4 - Ceintures urbaines
+95220,Commune D herblay Sur Seine - Service des Archives,,Archives,,Archives,HERBLAY-SUR-SEINE,49.00645,2.168297,11,Île-de-France,95,VAL-D OISE,1 - Grands centres urbains
+95800,Communauté D agglomération de Cergy-Pontoise - Service Archives-Documentation,,Archives,,Archives,CERGY,49.03591009,2.0769886,11,Île-de-France,95,VAL-D OISE,1 - Grands centres urbains
+95800,Commune de Cergy - Service Archives Et Documentation,,Archives,,Archives,CERGY,49.0522919,2.03616665,11,Île-de-France,95,VAL-D OISE,1 - Grands centres urbains
+78370,Commune de Plaisir - Archives municipales,,Archives,,Archives,PLAISIR,48.82180794,1.96113528,11,Île-de-France,78,YVELINES,1 - Grands centres urbains
+93300,Commune D aubervilliers - Service Archives-Documentation,,Archives,,Archives,AUBERVILLIERS,48.91245982,2.38150304,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+13100,Commune du Tholonet - Archives municipales,,Archives,,Archives,LE_THOLONET,43.51299611,5.49498189,93,Provence-Alpes-Côte d Azur,13,BOUCHES-DU-RHONE,6 - Rural à habitat dispersé
+84110,Commune de Vaison-La-Romaine - Service du Patrimoine,,Archives,,Archives,VAISON-LA-ROMAINE,44.24157027,5.07410272,93,Provence-Alpes-Côte d Azur,84,VAUCLUSE,3 - Petites villes
+10600,Commune de La Chapelle Saint-Luc - Archives municipales,,Archives,,Archives,LA_CHAPELLE-SAINT-LUC,48.31301613,4.04722429,44,Grand Est,10,AUBE,1 - Grands centres urbains
+77190,Commune de Dammarie-Lès-Lys - Service Documentation Et Archives,,Archives,,Archives,DAMMARIE-LES-LYS,48.51508251,2.63457798,11,Île-de-France,77,SEINE-ET-MARNE,1 - Grands centres urbains
+77190,Archives départementales de La Seine-Et-Marne,,Archives,,Archives,DAMMARIE-LES-LYS,48.51477073,2.62034941,11,Île-de-France,77,SEINE-ET-MARNE,1 - Grands centres urbains
+77190,Communauté D agglomération Melun Val de Seine - Service des Archives,,Archives,,Archives,DAMMARIE-LES-LYS,48.52199225,2.65257921,11,Île-de-France,77,SEINE-ET-MARNE,1 - Grands centres urbains
+59600,Commune de Maubeuge - Archives municipales,,Archives,,Archives,MAUBEUGE,50.283088,3.935309,32,Hauts-de-France,59,NORD,2 - Centres urbains intermédiaires
+33130,Commune de Bègles - Archives municipales,,Archives,,Archives,BÈGLES,44.80830488,-0.54336374,75,Nouvelle-Aquitaine,33,GIRONDE,1 - Grands centres urbains
+52000,Archives départementales de La Haute-Marne,,Archives,,Archives,CHAMARANDES-CHOIGNES,48.10342315,5.16070675,44,Grand Est,52,HAUTE-MARNE,4 - Ceintures urbaines
+52000,Commune de Chaumont - Service Documentation-Archives,,Archives,,Archives,CHAUMONT,48.11044431,5.12872654,44,Grand Est,52,HAUTE-MARNE,2 - Centres urbains intermédiaires
+31770,Commune de Colomiers - Service des Archives,,Archives,,Archives,COLOMIERS,43.61080245,1.33540442,76,Occitanie,31,HAUTE-GARONNE,1 - Grands centres urbains
+42800,Commune de Rive-de-Gier - Service des Archives,,Archives,,Archives,RIVE-DE-GIER,45.53063759,4.62144713,84,Auvergne-Rhône-Alpes,42,LOIRE,2 - Centres urbains intermédiaires
+78650,Commune de Beynes - Service des Archives,,Archives,,Archives,BEYNES,48.85571495,1.87601407,11,Île-de-France,78,YVELINES,4 - Ceintures urbaines
+83110,Commune de Sanary-Sur-Mer - Archives municipales,,Archives,,Archives,SANARY-SUR-MER,43.11804783,5.79931846,93,Provence-Alpes-Côte d Azur,83,VAR,1 - Grands centres urbains
+29600,Commune de Morlaix - Archives municipales,,Archives,,Archives,MORLAIX,48.57901073,-3.82953458,53,Bretagne,29,FINISTERE,2 - Centres urbains intermédiaires
+81100,Commune de Castres - Archives municipales,,Archives,,Archives,CASTRES,43.60736712,2.2532344,76,Occitanie,81,TARN,2 - Centres urbains intermédiaires
+07000,Archives départementales de L ardèche,,Archives,,Archives,PRIVAS,44.73218674,4.59591883,84,Auvergne-Rhône-Alpes,07,ARDECHE,3 - Petites villes
+76530,Commune de Grand-Couronne - Service Archives Et Patrimoine,,Archives,,Archives,GRAND-COURONNE,49.36035583,1.01121635,28,Normandie,76,SEINE-MARITIME,4 - Ceintures urbaines
+97100,Commune de Basse-Terre - Service Archives-Documentation,,Archives,,Archives,BASSE-TERRE,15.99663175,-61.73218719,1,Guadeloupe,971,GUADELOUPE,2 - Centres urbains intermédiaires
+97100,Conseil régional de La Guadeloupe - Service des Archives,,Archives,,Archives,BASSE-TERRE,15.993897,-61.71855,1,Guadeloupe,971,GUADELOUPE,2 - Centres urbains intermédiaires
+47000,Archives départementales du Lot-Et-Garonne,,Archives,,Archives,AGEN,44.19872694,0.6163016,75,Nouvelle-Aquitaine,47,LOT-ET-GARONNE,2 - Centres urbains intermédiaires
+47000,Commune D agen - Archives municipales,,Archives,,Archives,AGEN,44.20736248,0.61521171,75,Nouvelle-Aquitaine,47,LOT-ET-GARONNE,2 - Centres urbains intermédiaires
+47000,Centre des Archives Contemporaines Et de L état Civil,,Archives,,Archives,AGEN,44.19125793,0.61366202,75,Nouvelle-Aquitaine,47,LOT-ET-GARONNE,2 - Centres urbains intermédiaires
+03400,Archives départementales de L allier,,Archives,,Archives,YZEURE,46.56102488,3.34599605,84,Auvergne-Rhône-Alpes,03,ALLIER,2 - Centres urbains intermédiaires
+26100,Commune de Romans-Sur-Isère - Archives communales,,Archives,,Archives,ROMANS-SUR-ISÈRE,45.04247319,5.05110505,84,Auvergne-Rhône-Alpes,26,DROME,2 - Centres urbains intermédiaires
+95140,Commune de Garges-Lès-Gonesse - Archives communales,,Archives,,Archives,GARGES-LÈS-GONESSE,48.97166837,2.40032228,11,Île-de-France,95,VAL-D OISE,1 - Grands centres urbains
+57500,Centre des Archives Industrielles Et Techniques de La Moselle (Caitm),,Archives,,Archives,SAINT-AVOLD,49.15856811,6.75955352,44,Grand Est,57,MOSELLE,2 - Centres urbains intermédiaires
+57500,Commune de Saint-Avold - Service Archives-Documentation,,Archives,,Archives,SAINT-AVOLD,49.158298,6.758787,44,Grand Est,57,MOSELLE,2 - Centres urbains intermédiaires
+78990,Commune D elancourt - Archives communales,,Archives,,Archives,ELANCOURT,48.76842316,1.94891864,11,Île-de-France,78,YVELINES,1 - Grands centres urbains
+59100,Archives Nationales du Monde du Travail - Anmt,,Archives,,Archives,ROUBAIX,50.69028938,3.17836247,32,Hauts-de-France,59,NORD,1 - Grands centres urbains
+59100,Commune de Roubaix - Archives municipales,,Archives,,Archives,ROUBAIX,50.690472,3.174177,32,Hauts-de-France,59,NORD,1 - Grands centres urbains
+81000,Archives départementales du Tarn,,Archives,,Archives,ALBI,43.94220212,2.13951031,76,Occitanie,81,TARN,2 - Centres urbains intermédiaires
+81000,Commune D albi - Archives municipales,,Archives,,Archives,ALBI,43.92649204,2.17532901,76,Occitanie,81,TARN,2 - Centres urbains intermédiaires
+41200,Commune de Romorantin - Archives municipales,,Archives,,Archives,ROMORANTIN-LANTHENAY,47.35844184,1.7409666,24,Centre-Val de Loire,41,LOIR-ET-CHER,3 - Petites villes
+25300,Commune de Pontarlier Et Communauté de Communes du Grand Pontarlier - Archives municipales,,Archives,,Archives,PONTARLIER,46.91867005,6.30633462,27,Bourgogne-Franche-Comté,25,DOUBS,2 - Centres urbains intermédiaires
+59330,Commune de Hautmont - Archives municipales,,Archives,,Archives,HAUTMONT,50.254688,3.930344,32,Hauts-de-France,59,NORD,2 - Centres urbains intermédiaires
+24100,Archives municipales de Bergerac,,Archives,,Archives,BERGERAC,44.84956675,0.48371748,75,Nouvelle-Aquitaine,24,DORDOGNE,2 - Centres urbains intermédiaires
+97419,Commune de La Possession - Service Documentation-Archives,,Archives,,Archives,LA_POSSESSION,-20.9268618,55.33686425,4,La Réunion,974,REUNION,2 - Centres urbains intermédiaires
+78120,Commune de Rambouillet - Archives municipales,,Archives,,Archives,RAMBOUILLET,48.65470996,1.81778,11,Île-de-France,78,YVELINES,2 - Centres urbains intermédiaires
+53000,Archives départementales de La Mayenne,,Archives,,Archives,LAVAL,48.07256763,-0.75893204,52,Pays de la Loire,53,MAYENNE,2 - Centres urbains intermédiaires
+53000,Commune de Laval Et Communauté D agglomération Laval Agglomération - Service Archives,,Archives,,Archives,LAVAL,48.07701478,-0.76547564,52,Pays de la Loire,53,MAYENNE,2 - Centres urbains intermédiaires
+59500,Commune de Douai - Archives municipales,,Archives,,Archives,DOUAI,50.36713463,3.0803791,32,Hauts-de-France,59,NORD,1 - Grands centres urbains
+92240,Commune de Malakoff - Service Documentation-Archives,,Archives,,Archives,MALAKOFF,48.82098719,2.30168959,11,Île-de-France,92,HAUTS-DE-SEINE,1 - Grands centres urbains
+72000,Archives départementales de La Sarthe,,Archives,,Archives,LE_MANS,47.98091969,0.20627909,52,Pays de la Loire,72,SARTHE,1 - Grands centres urbains
+72000,Commune du Mans - Archives municipales,,Archives,,Archives,LE_MANS,48.00760266,0.18867645,52,Pays de la Loire,72,SARTHE,1 - Grands centres urbains
+95230,Commune de Soisy-Sous-Montmorency - Service Archives-Documentation,,Archives,,Archives,SOISY-SOUS-MONTMORENCY,48.98760102,2.30105973,11,Île-de-France,95,VAL-D OISE,1 - Grands centres urbains
+85100,Antenne du Château D olonne,,Archives,,Archives,LES_SABLES-D_OLONNE,46.50417103,-1.73929504,52,Pays de la Loire,85,VENDEE,3 - Petites villes
+85100,Commune des Sables D olonne - Archives municipales Et Documentation,,Archives,,Archives,LES_SABLES-D_OLONNE,46.49717784,-1.78405757,52,Pays de la Loire,85,VENDEE,3 - Petites villes
+85100,Antenne D olonne Sur Mer,,Archives,,Archives,LES_SABLES-D_OLONNE,46.53330982,-1.77208811,52,Pays de la Loire,85,VENDEE,3 - Petites villes
+62110,Commune de Hénin-Beaumont - Archives municipales,,Archives,,Archives,HÉNIN-BEAUMONT,50.4210871,2.94871347,32,Hauts-de-France,62,PAS-DE-CALAIS,1 - Grands centres urbains
+74200,Commune de Thonon-Les-Bains - Archives municipales,,Archives,,Archives,THONON-LES-BAINS,46.36969992,6.48162922,84,Auvergne-Rhône-Alpes,74,HAUTE-SAVOIE,2 - Centres urbains intermédiaires
+62200,Commune de Boulogne-Sur-Mer - Archives municipales,,Archives,,Archives,BOULOGNE-SUR-MER,50.71448188,1.61501189,32,Hauts-de-France,62,PAS-DE-CALAIS,1 - Grands centres urbains
+97431,Commune de La Plaine-des-Palmistes - Service des Archives,,Archives,,Archives,LA_PLAINE-DES-PALMISTES,-21.13529991,55.62562261,4,La Réunion,974,REUNION,3 - Petites villes
+17300,Commune de Rochefort - Service Archives Documentation,,Archives,,Archives,ROCHEFORT,45.93673591,-0.962458,75,Nouvelle-Aquitaine,17,CHARENTE-MARITIME,2 - Centres urbains intermédiaires
+34600,Commune de Bédarieux - Archives municipales,,Archives,,Archives,BÉDARIEUX,43.61744625,3.15518243,76,Occitanie,34,HERAULT,5 - Bourgs ruraux
+86100,Communauté D agglomération du Grand Châtellerault - Service des Archives,,Archives,,Archives,CHÂTELLERAULT,46.81512159,0.54918792,75,Nouvelle-Aquitaine,86,VIENNE,2 - Centres urbains intermédiaires
+49400,Commune de Saumur - Archives municipales,,Archives,,Archives,SAUMUR,47.2629799,-0.0801526,52,Pays de la Loire,49,MAINE-ET-LOIRE,3 - Petites villes
+49400,Communauté D agglomération Saumur Val de Loire  - Service Archives,,Archives,,Archives,SAUMUR,47.26561209,-0.07281829,52,Pays de la Loire,49,MAINE-ET-LOIRE,3 - Petites villes
+13880,Commune de Velaux - Service des Archives,,Archives,,Archives,VELAUX,43.52969969,5.25541764,93,Provence-Alpes-Côte d Azur,13,BOUCHES-DU-RHONE,4 - Ceintures urbaines
+31170,Commune de Tournefeuille - Archives municipales,,Archives,,Archives,TOURNEFEUILLE,43.58235824,1.3478265,76,Occitanie,31,HAUTE-GARONNE,1 - Grands centres urbains
+74800,Commune de La Roche Sur Foron - Archives municipales,,Archives,,Archives,LA_ROCHE-SUR-FORON,46.0666271,6.31471855,84,Auvergne-Rhône-Alpes,74,HAUTE-SAVOIE,2 - Centres urbains intermédiaires
+26700,Commune de Pierrelatte - Service des Archives,,Archives,,Archives,PIERRELATTE,44.371863,4.707295,84,Auvergne-Rhône-Alpes,26,DROME,2 - Centres urbains intermédiaires
+80310,Communauté de Communes Nièvre Et Somme - Service Intercommunal D archives,,Archives,,Archives,PICQUIGNY,49.94369872,2.14751785,32,Hauts-de-France,80,SOMME,5 - Bourgs ruraux
+83500,Commune de La Seyne-Sur-Mer - Archives municipales,,Archives,,Archives,LA_SEYNE-SUR-MER,43.103059,5.880099,93,Provence-Alpes-Côte d Azur,83,VAR,1 - Grands centres urbains
+33510,Communauté D agglomération du Bassin D arcachon Nord (Coban) - Service des Archives,,Archives,,Archives,ANDERNOS-LES-BAINS,44.74420128,-1.08566989,75,Nouvelle-Aquitaine,33,GIRONDE,3 - Petites villes
+59491,Commune de Villeneuve-D ascq - Service Archives-Documentation,,Archives,,Archives,VILLENEUVE-D_ASCQ,50.61945682,3.13104526,32,Hauts-de-France,59,NORD,1 - Grands centres urbains
+76250,Métropole Rouen Normandie - Centre des Archives,,Archives,,Archives,DÉVILLE-LÈS-ROUEN,49.47238981,1.04148697,28,Normandie,76,SEINE-MARITIME,1 - Grands centres urbains
+49300,Commune de Cholet Et Communauté D agglomération du Choletais - Service des Archives,,Archives,,Archives,CHOLET,47.05943536,-0.87558475,52,Pays de la Loire,49,MAINE-ET-LOIRE,2 - Centres urbains intermédiaires
+77144,Commune de Montévrain - Archives communales,,Archives,,Archives,MONTÉVRAIN,48.87491057,2.74542396,11,Île-de-France,77,SEINE-ET-MARNE,1 - Grands centres urbains
+69330,Commune de Meyzieu - Service Documentation-Archives,,Archives,,Archives,MEYZIEU,45.76530403,5.00489245,84,Auvergne-Rhône-Alpes,69,RHONE,1 - Grands centres urbains
+40000,Archives départementales des Landes,,Archives,,Archives,MONT-DE-MARSAN,43.89581963,-0.49312639,75,Nouvelle-Aquitaine,40,LANDES,2 - Centres urbains intermédiaires
+40000,Centre de gestion de la fonction publique territoriale des Landes - Service des Archives,,Archives,,Archives,MONT-DE-MARSAN,43.89691952,-0.49316619,75,Nouvelle-Aquitaine,40,LANDES,2 - Centres urbains intermédiaires
+77186,Commune de Noisiel - Service Documentation-Archives,,Archives,,Archives,NOISIEL,48.85469251,2.6285292,11,Île-de-France,77,SEINE-ET-MARNE,1 - Grands centres urbains
+64100,Commune de Bayonne - Service Archives Documentation,,Archives,,Archives,BAYONNE,43.49350847,-1.47488103,75,Nouvelle-Aquitaine,64,PYRENEES-ATLANTIQUES,1 - Grands centres urbains
+64100,Pôle D archives de Bayonne Et du Pays Basque,,Archives,,Archives,BAYONNE,43.48644069,-1.46644227,75,Nouvelle-Aquitaine,64,PYRENEES-ATLANTIQUES,1 - Grands centres urbains
+68160,Communauté de Communes du Val D argent - Service Intercommunal des Archives,,Archives,,Archives,SAINTE-CROIX-AUX-MINES,48.26289945,7.22938982,44,Grand Est,68,HAUT-RHIN,5 - Bourgs ruraux
+68160,Commune de Sainte-Marie-Aux-Mines - Archives municipales,,Archives,,Archives,SAINTE-MARIE-AUX-MINES,48.2458759,7.18242121,44,Grand Est,68,HAUT-RHIN,5 - Bourgs ruraux
+37170,Centre des Archives Contemporaines,,Archives,,Archives,CHAMBRAY-LÈS-TOURS,47.3332777,0.69817842,24,Centre-Val de Loire,37,INDRE-ET-LOIRE,1 - Grands centres urbains
+13400,Commune D aubagne - Archives municipales,,Archives,,Archives,AUBAGNE,43.29212811,5.56924606,93,Provence-Alpes-Côte d Azur,13,BOUCHES-DU-RHONE,1 - Grands centres urbains
+01960,Centre de gestion de la fonction publique territoriale de L ain - Service des Archives,,Archives,,Archives,PÉRONNAS,46.18211474,5.20765619,84,Auvergne-Rhône-Alpes,01,AIN,4 - Ceintures urbaines
+57100,Commune de Thionville - Archives communales,,Archives,,Archives,THIONVILLE,49.35740483,6.16522425,44,Grand Est,57,MOSELLE,2 - Centres urbains intermédiaires
+91190,Commune de Gif-Sur-Yvette - Service Culture-Archives-Documentation,,Archives,,Archives,GIF-SUR-YVETTE,48.701187,2.13657,11,Île-de-France,91,ESSONNE,1 - Grands centres urbains
+22000,Commune de Saint-Brieuc - Archives municipales,,Archives,,Archives,SAINT-BRIEUC,48.51063316,-2.76802472,53,Bretagne,22,COTES-D ARMOR,1 - Grands centres urbains
+22000,Archives départementales des Côtes-D armor,,Archives,,Archives,SAINT-BRIEUC,48.50347247,-2.77272403,53,Bretagne,22,COTES-D ARMOR,1 - Grands centres urbains
+38600,Commune de Fontaine - Archives municipales,,Archives,,Archives,FONTAINE,45.19186564,5.68798684,84,Auvergne-Rhône-Alpes,38,ISERE,1 - Grands centres urbains
+13190,Commune D allauch - Archives municipales,,Archives,,Archives,ALLAUCH,43.33641699,5.4819174,93,Provence-Alpes-Côte d Azur,13,BOUCHES-DU-RHONE,1 - Grands centres urbains
+57800,Commune de Freyming-Merlebach - Archives municipales,,Archives,,Archives,FREYMING-MERLEBACH,49.14709195,6.81876581,44,Grand Est,57,MOSELLE,2 - Centres urbains intermédiaires
+32100,Commune de Condom - Archives communales,,Archives,,Archives,CONDOM,43.95881324,0.37160879,76,Occitanie,32,GERS,5 - Bourgs ruraux
+59520,Sivom Alliance Nord-Ouest,,Archives,,Archives,MARQUETTE-LEZ-LILLE,50.68152146,3.08359521,32,Hauts-de-France,59,NORD,1 - Grands centres urbains
+69120,Commune de Vaulx-En-Velin - Archives municipales,,Archives,,Archives,VAULX-EN-VELIN,45.77830781,4.92021845,84,Auvergne-Rhône-Alpes,69,RHONE,1 - Grands centres urbains
+18000,Archives départementales du Cher,,Archives,,Archives,BOURGES,47.05951398,2.39098585,24,Centre-Val de Loire,18,CHER,1 - Grands centres urbains
+18000,Commune de Bourges - Archives communales Et Communautaires,,Archives,,Archives,BOURGES,47.10223105,2.41523167,24,Centre-Val de Loire,18,CHER,1 - Grands centres urbains
+17100,Commune de Saintes - Service des Archives,,Archives,,Archives,SAINTES,45.74489935,-0.63528749,75,Nouvelle-Aquitaine,17,CHARENTE-MARITIME,2 - Centres urbains intermédiaires
+62000,Archives départementales du Pas-de-Calais,,Archives,,Archives,DAINVILLE,50.29185832,2.73761989,32,Hauts-de-France,62,PAS-DE-CALAIS,4 - Ceintures urbaines
+62000,Centre Georges Besnier,,Archives,,Archives,ARRAS,50.29350642,2.76305116,32,Hauts-de-France,62,PAS-DE-CALAIS,1 - Grands centres urbains
+13500,Commune de Martigues - Archives communales,,Archives,,Archives,MARTIGUES,43.40570356,5.04820393,93,Provence-Alpes-Côte d Azur,13,BOUCHES-DU-RHONE,1 - Grands centres urbains
+17000,Commune de La Rochelle - Archives municipales,,Archives,,Archives,LA_ROCHELLE,46.1598986,-1.14763869,75,Nouvelle-Aquitaine,17,CHARENTE-MARITIME,1 - Grands centres urbains
+17000,Archives départementales de Charente-Maritime,,Archives,,Archives,LA_ROCHELLE,46.1405299,-1.15338079,75,Nouvelle-Aquitaine,17,CHARENTE-MARITIME,1 - Grands centres urbains
+17000,Communauté D agglomération de La Rochelle - Archives Communautaires de La Rochelle,,Archives,,Archives,LA_ROCHELLE,46.15983109,-1.15000674,75,Nouvelle-Aquitaine,17,CHARENTE-MARITIME,1 - Grands centres urbains
+64110,Communauté de Jurançon - Archives communales,,Archives,,Archives,JURANÇON,43.2873814,-0.39073437,75,Nouvelle-Aquitaine,64,PYRENEES-ATLANTIQUES,1 - Grands centres urbains
+59190,Commune de Hazebrouck - Archives communales,,Archives,,Archives,HAZEBROUCK,50.72272683,2.53660061,32,Hauts-de-France,59,NORD,2 - Centres urbains intermédiaires
+47300,Commune de Villeneuve-Sur-Lot - Archives municipales,,Archives,,Archives,VILLENEUVE-SUR-LOT,44.40493739,0.70824163,75,Nouvelle-Aquitaine,47,LOT-ET-GARONNE,2 - Centres urbains intermédiaires
+55000,Archives départementales de La Meuse,,Archives,,Archives,BAR-LE-DUC,48.7580074,5.15606656,44,Grand Est,55,MEUSE,2 - Centres urbains intermédiaires
+31600,Commune de Muret - Service des Archives Et du Musée,,Archives,,Archives,MURET,43.46097779,1.32617586,76,Occitanie,31,HAUTE-GARONNE,2 - Centres urbains intermédiaires
+57600,Commune de Forbach - Archives municipales,,Archives,,Archives,FORBACH,49.18500933,6.89438051,44,Grand Est,57,MOSELLE,2 - Centres urbains intermédiaires
+52300,Communauté de Communes du Bassin de Joinville Champagne - Service Archives-Documentation,,Archives,,Archives,JOINVILLE,48.43997448,5.13818441,44,Grand Est,52,HAUTE-MARNE,5 - Bourgs ruraux
+76210,Commune de Bolbec - Service Archives-Documentation-Patrimoine,,Archives,,Archives,BOLBEC,49.57388554,0.47411804,28,Normandie,76,SEINE-MARITIME,2 - Centres urbains intermédiaires
+28200,Commune de Châteaudun - Archives municipales,,Archives,,Archives,CHÂTEAUDUN,48.06931952,1.32497385,24,Centre-Val de Loire,28,EURE-ET-LOIR,3 - Petites villes
+94220,Commune de Charenton-Le-Pont - Service des Archives de La Ville Et de La Communauté de Communes,,Archives,,Archives,CHARENTON-LE-PONT,48.81954072,2.41677429,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+55700,Commune de Stenay - Archives municipales,,Archives,,Archives,STENAY,49.492759,5.18907294,44,Grand Est,55,MEUSE,5 - Bourgs ruraux
+55700,Commune de Stenay -  Archives Anciennes,,Archives,,Archives,STENAY,49.49095,5.189912,44,Grand Est,55,MEUSE,5 - Bourgs ruraux
+01500,Commune d Ambérieu-en-Bugey - Service des Archives,,Archives,,Archives,AMBÉRIEU-EN-BUGEY,45.95810986,5.3585897,84,Auvergne-Rhône-Alpes,01,AIN,2 - Centres urbains intermédiaires
+20000,Archives Pumonti A Ajaccio,,Archives,,Archives,AJACCIO,41.93498577,8.75114159,94,Corse,2A,CORSE-DU-SUD,2 - Centres urbains intermédiaires
+31470,Commune de Fontenilles - Service des Archives,,Archives,,Archives,FONTENILLES,43.55315703,1.19183927,76,Occitanie,31,HAUTE-GARONNE,4 - Ceintures urbaines
+74400,Commune de Chamonix-Mont-Blanc - Archives municipales,,Archives,,Archives,CHAMONIX-MONT-BLANC,45.9237607,6.86925527,84,Auvergne-Rhône-Alpes,74,HAUTE-SAVOIE,3 - Petites villes
+91410,Commune de Dourdan - Service des Archives,,Archives,,Archives,DOURDAN,48.52904328,2.0155597,11,Île-de-France,91,ESSONNE,2 - Centres urbains intermédiaires
+80100,Commune D abbeville - Archives municipales,,Archives,,Archives,ABBEVILLE,50.10919823,1.83499158,32,Hauts-de-France,80,SOMME,2 - Centres urbains intermédiaires
+68720,Communauté de Communes Sundgau - Service des Archives,,Archives,,Archives,ILLFURTH,47.67126918,7.26372553,44,Grand Est,68,HAUT-RHIN,5 - Bourgs ruraux
+21200,Commune de Beaune - Archives municipales,,Archives,,Archives,BEAUNE,47.026225,4.839519,27,Bourgogne-Franche-Comté,21,COTE-D OR,2 - Centres urbains intermédiaires
+94290,Commune de Villeneuve-Le-Roi - Service Valorisation du Patrimoine Et des Archives,,Archives,,Archives,VILLENEUVE-LE-ROI,48.73192304,2.41161563,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+94260,Commune de Fresnes - Service Archives-Documentation,,Archives,,Archives,FRESNES,48.75505024,2.32225487,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+94100,Commune de Saint-Maur-des-Fossés - Archives municipales,,Archives,,Archives,SAINT-MAUR-DES-FOSSÉS,48.7905682,2.47809707,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+94230,Commune de Cachan - Service du Patrimoine Archives Et Documentation,,Archives,,Archives,CACHAN,48.79463158,2.3338791,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+94140,Commune D alfortville - Archives municipales,,Archives,,Archives,ALFORTVILLE,48.80581973,2.42065168,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+94300,Commune de Vincennes - Service Archives Et Patrimoine,,Archives,,Archives,VINCENNES,48.84816267,2.43924704,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+94800,Commune de Villejuif - Archives communales,,Archives,,Archives,VILLEJUIF,48.79281335,2.36308131,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+94460,Commune de Valenton - Pôle Documentation-Archives,,Archives,,Archives,VALENTON,48.74396441,2.46846325,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+94160,Commune de Saint-Mandé - Archives municipales,,Archives,,Archives,SAINT-MANDÉ,48.84336086,2.41930469,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+94320,Commune de Thiais - Service Archives-Documentation,,Archives,,Archives,THIAIS,48.76426415,2.39104325,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+94310,Commune D orly - Service Archives-Documentation,,Archives,,Archives,ORLY,48.74396613,2.40184976,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+94700,Commune de Maisons-Alfort - Service Archives Et Documentation,,Archives,,Archives,MAISONS-ALFORT,48.8011287,2.43079583,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+94110,Commune D arcueil - Service Archives-Documentation,,Archives,,Archives,ARCUEIL,48.80632927,2.33713688,11,Île-de-France,94,VAL-DE-MARNE,1 - Grands centres urbains
+97122,Commune de Baie-Mahault - Service Archives,,Archives,,Archives,BAIE-MAHAULT,16.265614,-61.58739,1,Guadeloupe,971,GUADELOUPE,4 - Ceintures urbaines
+97113,Archives départementales de La Guadeloupe,,Archives,,Archives,GOURBEYRE,15.98731539,-61.71166221,1,Guadeloupe,971,GUADELOUPE,4 - Ceintures urbaines
+97123,Commune de Baillif - Service Archives,,Archives,,Archives,BAILLIF,16.02100648,-61.74673405,1,Guadeloupe,971,GUADELOUPE,4 - Ceintures urbaines
+03000,Commune de Moulins - Archives municipales,,Archives,,Archives,MOULINS,46.54555536,3.33410752,84,Auvergne-Rhône-Alpes,03,ALLIER,2 - Centres urbains intermédiaires
+03300,Commune de Cusset - Archives municipales,,Archives,,Archives,CUSSET,46.13163149,3.45640511,84,Auvergne-Rhône-Alpes,03,ALLIER,2 - Centres urbains intermédiaires
+03200,Archives Intercommunales de Vichy Communauté - Archives municipales,,Archives,,Archives,VICHY,46.12504236,3.42931121,84,Auvergne-Rhône-Alpes,03,ALLIER,2 - Centres urbains intermédiaires
+08000,Commune de Charleville-Mézières - Service des Archives,,Archives,,Archives,CHARLEVILLE-MÉZIÈRES,49.76759173,4.71343042,44,Grand Est,08,ARDENNES,2 - Centres urbains intermédiaires
+08000,Archives départementales des Ardennes,,Archives,,Archives,CHARLEVILLE-MÉZIÈRES,49.75955319,4.72312136,44,Grand Est,08,ARDENNES,2 - Centres urbains intermédiaires
+08000,Centre de gestion de la fonction publique territoriale - Mission Archives,,Archives,,Archives,CHARLEVILLE-MÉZIÈRES,49.73970323,4.72345047,44,Grand Est,08,ARDENNES,2 - Centres urbains intermédiaires
+25000,Commune de Besançon - Archives municipales,,Archives,,Archives,BESANÇON,47.23620308,6.02778718,27,Bourgogne-Franche-Comté,25,DOUBS,1 - Grands centres urbains
+25000,Archives départementales du Doubs,,Archives,,Archives,BESANÇON,47.21779542,5.97043641,27,Bourgogne-Franche-Comté,25,DOUBS,1 - Grands centres urbains
+25000,Conseil régional de Bourgogne-Franche-Comté - Site de Besançon - Service des Archives,,Archives,,Archives,BESANÇON,47.24390397,6.02699872,27,Bourgogne-Franche-Comté,25,DOUBS,1 - Grands centres urbains
+25200,Commune de Montbéliard - Archives municipales,,Archives,,Archives,MONTBÉLIARD,47.50870792,6.79884771,27,Bourgogne-Franche-Comté,25,DOUBS,1 - Grands centres urbains
+25200,Communauté D agglomération du Pays de Montbéliard - Service Archives-Documentation,,Archives,,Archives,MONTBÉLIARD,47.51186717,6.79988893,27,Bourgogne-Franche-Comté,25,DOUBS,1 - Grands centres urbains
+77176,Commune de Savigny-Le-Temple - Service Archives-Documentation,,Archives,,Archives,SAVIGNY-LE-TEMPLE,48.59629962,2.58022853,11,Île-de-France,77,SEINE-ET-MARNE,2 - Centres urbains intermédiaires
+77380,Commune de Combs-La-Ville - Documentation-Archives,,Archives,,Archives,COMBS-LA-VILLE,48.66519246,2.56489267,11,Île-de-France,77,SEINE-ET-MARNE,1 - Grands centres urbains
+77420,Commune de Champs-Sur-Marne - Service Documentation Et Archives,,Archives,,Archives,CHAMPS-SUR-MARNE,48.852886,2.602869,11,Île-de-France,77,SEINE-ET-MARNE,1 - Grands centres urbains
+77000,Commune de Melun - Archives municipales,,Archives,,Archives,MELUN,48.53689591,2.65510241,11,Île-de-France,77,SEINE-ET-MARNE,1 - Grands centres urbains
+77500,Commune de Chelles - Service Archives Et Documentation,,Archives,,Archives,CHELLES,48.87762091,2.59029195,11,Île-de-France,77,SEINE-ET-MARNE,1 - Grands centres urbains
+77160,Commune de Provins - Archives municipales (Et Fonds Anciens de La Bibliothèque Municipale),,Archives,,Archives,PROVINS,48.561999,3.296915,11,Île-de-France,77,SEINE-ET-MARNE,2 - Centres urbains intermédiaires
+77130,Commune de Montereau-Fault-Yonne - Archives communales,,Archives,,Archives,MONTEREAU-FAULT-YONNE,48.38469802,2.95627969,11,Île-de-France,77,SEINE-ET-MARNE,2 - Centres urbains intermédiaires
+77140,Commune de Nemours - Archives communales,,Archives,,Archives,NEMOURS,48.26635652,2.69402974,11,Île-de-France,77,SEINE-ET-MARNE,2 - Centres urbains intermédiaires
+89200,Commune D avallon - Archives municipales,,Archives,,Archives,AVALLON,47.489666,3.908689,27,Bourgogne-Franche-Comté,89,YONNE,3 - Petites villes
+92360,Commune de Meudon - Archives municipales,,Archives,,Archives,MEUDON,48.81286812,2.23843004,11,Île-de-France,92,HAUTS-DE-SEINE,1 - Grands centres urbains
+92370,Commune de Chaville - Service Archives-Documentation,,Archives,,Archives,CHAVILLE,48.80944078,2.18871833,11,Île-de-France,92,HAUTS-DE-SEINE,1 - Grands centres urbains
+92260,Commune de Fontenay-Aux-Roses - Service Archives-Documentation,,Archives,,Archives,FONTENAY-AUX-ROSES,48.79110535,2.28623546,11,Île-de-France,92,HAUTS-DE-SEINE,1 - Grands centres urbains
+92110,Commune de Clichy-La-Garenne - Service Archives-Documentation,,Archives,,Archives,CLICHY,48.90402499,2.30606566,11,Île-de-France,92,HAUTS-DE-SEINE,1 - Grands centres urbains
+92350,Commune du Plessis-Robinson - Service Archives-Documentation,,Archives,,Archives,LE_PLESSIS-ROBINSON,48.78250559,2.26218622,11,Île-de-France,92,HAUTS-DE-SEINE,1 - Grands centres urbains
+92220,Commune de Bagneux - Archives communales,,Archives,,Archives,BAGNEUX,48.79713702,2.30344117,11,Île-de-France,92,HAUTS-DE-SEINE,1 - Grands centres urbains
+92170,Commune de Vanves - Service Archives Et Documentation,,Archives,,Archives,VANVES,48.82117346,2.28956789,11,Île-de-France,92,HAUTS-DE-SEINE,1 - Grands centres urbains
+92320,Commune de Châtillon - Archives municipales,,Archives,,Archives,CHÂTILLON,48.805859,2.297082,11,Île-de-France,92,HAUTS-DE-SEINE,1 - Grands centres urbains
+92700,Commune de Colombes - Service Archives,,Archives,,Archives,COLOMBES,48.92218966,2.25529443,11,Île-de-France,92,HAUTS-DE-SEINE,1 - Grands centres urbains
+92500,Commune de Rueil-Malmaison - Archives communales,,Archives,,Archives,RUEIL-MALMAISON,48.87767,2.181712,11,Île-de-France,92,HAUTS-DE-SEINE,1 - Grands centres urbains
+92200,Commune de Neuilly-Sur-Seine - Service Archives-Documentation,,Archives,,Archives,NEUILLY-SUR-SEINE,48.88494587,2.26979899,11,Île-de-France,92,HAUTS-DE-SEINE,1 - Grands centres urbains
+92160,Commune D antony - Service Archives-Documentation,,Archives,,Archives,ANTONY,48.75388428,2.29608507,11,Île-de-France,92,HAUTS-DE-SEINE,1 - Grands centres urbains
+92290,Commune de Châtenay-Malabry - Service Archives-Documentation,,Archives,,Archives,CHÂTENAY-MALABRY,48.7673266,2.27851302,11,Île-de-France,92,HAUTS-DE-SEINE,1 - Grands centres urbains
+92000,Archives départementales des Hauts-de-Seine,,Archives,,Archives,NANTERRE,48.89476526,2.21270051,11,Île-de-France,92,HAUTS-DE-SEINE,1 - Grands centres urbains
+92000,Commune de Nanterre - Service Archives-Documentation,,Archives,,Archives,NANTERRE,48.89220481,2.20692894,11,Île-de-France,92,HAUTS-DE-SEINE,1 - Grands centres urbains
+92390,Commune de Villeneuve-La-Garenne - Service Archives-Documentation,,Archives,,Archives,VILLENEUVE-LA-GARENNE,48.93588595,2.33276265,11,Île-de-France,92,HAUTS-DE-SEINE,1 - Grands centres urbains
+92230,Commune de Gennevilliers - Archives municipales,,Archives,,Archives,GENNEVILLIERS,48.92531704,2.29403252,11,Île-de-France,92,HAUTS-DE-SEINE,1 - Grands centres urbains
+92330,Commune de Sceaux - Service Archives-Documentation,,Archives,,Archives,SCEAUX,48.77897123,2.28865905,11,Île-de-France,92,HAUTS-DE-SEINE,1 - Grands centres urbains
+01000,Archives départementales de l Ain,,Archives,,Archives,BOURG-EN-BRESSE,46.19525376,5.22615816,84,Auvergne-Rhône-Alpes,01,AIN,2 - Centres urbains intermédiaires
+01000,Commune de Bourg-En-Bresse - Service des Archives,,Archives,,Archives,BOURG-EN-BRESSE,46.20494053,5.22519056,84,Auvergne-Rhône-Alpes,01,AIN,2 - Centres urbains intermédiaires
+06100,Ville de Nice Et Métropole Nice Côte D azur - Service des Archives,,Archives,,Archives,NICE,43.68740487,7.23514002,93,Provence-Alpes-Côte d Azur,06,ALPES-MARITIMES,1 - Grands centres urbains
+06100,Archives départementales des Alpes-Maritimes,,Archives,,Archives,NICE,43.72417,7.24971,93,Provence-Alpes-Côte d Azur,06,ALPES-MARITIMES,1 - Grands centres urbains
+06160,Commune D antibes Juan-Les-Pins - Service Archives-Documentation,,Archives,,Archives,ANTIBES,43.58258634,7.12583695,93,Provence-Alpes-Côte d Azur,06,ALPES-MARITIMES,1 - Grands centres urbains
+06250,Commune de Mougins - Service Archives-Documentation,,Archives,,Archives,MOUGINS,43.603018,6.990786,93,Provence-Alpes-Côte d Azur,06,ALPES-MARITIMES,4 - Ceintures urbaines
+06800,Commune de Cagnes-Sur-Mer - Service des Archives,,Archives,,Archives,CAGNES-SUR-MER,43.66367593,7.1485626,93,Provence-Alpes-Côte d Azur,06,ALPES-MARITIMES,1 - Grands centres urbains
+06210,Commune de Mandelieu-La-Napoule - Archives municipales,,Archives,,Archives,MANDELIEU-LA-NAPOULE,43.53949,6.935724,93,Provence-Alpes-Côte d Azur,06,ALPES-MARITIMES,1 - Grands centres urbains
+06240,Commune de Beausoleil - Service Archives-Documentation,,Archives,,Archives,BEAUSOLEIL,43.74376098,7.42504848,93,Provence-Alpes-Côte d Azur,06,ALPES-MARITIMES,2 - Centres urbains intermédiaires
+06500,Commune de Menton - Service Archives-Documentation,,Archives,,Archives,MENTON,43.77539289,7.50250969,93,Provence-Alpes-Côte d Azur,06,ALPES-MARITIMES,2 - Centres urbains intermédiaires
+06510,Commune de Carros - Service Patrimoine Archives Documentation,,Archives,,Archives,CARROS,43.77282369,7.19254751,93,Provence-Alpes-Côte d Azur,06,ALPES-MARITIMES,2 - Centres urbains intermédiaires
+07100,Commune D annonay - Archives municipales,,Archives,,Archives,ANNONAY,45.24985143,4.66810888,84,Auvergne-Rhône-Alpes,07,ARDECHE,3 - Petites villes
+07700,Commune de Bourg-Saint-Andéol - Service des Archives,,Archives,,Archives,BOURG-SAINT-ANDÉOL,44.36948216,4.64594734,84,Auvergne-Rhône-Alpes,07,ARDECHE,3 - Petites villes
+14200,Commune D hérouville-Saint-Clair - Service Archives Et Documentation,,Archives,,Archives,HÉROUVILLE-SAINT-CLAIR,49.20259863,-0.33425878,28,Normandie,14,CALVADOS,1 - Grands centres urbains
+14200,Centre de gestion de la fonction publique territoriale du Calvados - Service des Archives,,Archives,,Archives,HÉROUVILLE-SAINT-CLAIR,49.21909718,-0.35605434,28,Normandie,14,CALVADOS,1 - Grands centres urbains
+14800,Commune de Deauville - Archives municipales,,Archives,,Archives,DEAUVILLE,49.35913613,0.07468802,28,Normandie,14,CALVADOS,3 - Petites villes
+14800,Communauté de Commune Coeur Côte Fleurie - Service des Archives,,Archives,,Archives,DEAUVILLE,49.36011019,0.07401538,28,Normandie,14,CALVADOS,3 - Petites villes
+23000,Archives départementales de La Creuse,,Archives,,Archives,GUÉRET,46.1723778,1.88275523,75,Nouvelle-Aquitaine,23,CREUSE,2 - Centres urbains intermédiaires
+23000,Commune de Guéret - Archives municipales,,Archives,,Archives,GUÉRET,46.16932611,1.8715441,75,Nouvelle-Aquitaine,23,CREUSE,2 - Centres urbains intermédiaires
+24000,Commune de Périgueux - Archives municipales,,Archives,,Archives,PÉRIGUEUX,45.18287854,0.71029599,75,Nouvelle-Aquitaine,24,DORDOGNE,2 - Centres urbains intermédiaires
+24000,Centre de gestion de la fonction publique territoriale de La Dordogne - Service des Archives,,Archives,,Archives,PÉRIGUEUX,45.19751,0.677035,75,Nouvelle-Aquitaine,24,DORDOGNE,2 - Centres urbains intermédiaires
+24000,Archives départementales de La Dordogne,,Archives,,Archives,PÉRIGUEUX,45.18154448,0.71874811,75,Nouvelle-Aquitaine,24,DORDOGNE,2 - Centres urbains intermédiaires
+27200,Commune de Vernon - Service des Archives,,Archives,,Archives,VERNON,49.09352875,1.48498502,28,Normandie,27,EURE,2 - Centres urbains intermédiaires
+27000,Commune D evreux - Archives communales Et Intercommunales,,Archives,,Archives,EVREUX,49.031408,1.176759,28,Normandie,27,EURE,2 - Centres urbains intermédiaires
+27000,Archives départementales de L eure,,Archives,,Archives,EVREUX,49.02343579,1.1443914,28,Normandie,27,EURE,2 - Centres urbains intermédiaires
+26220,Communauté de Communes du Pays de Dieulefit Bourdeaux - Service des Archives,,Archives,,Archives,DIEULEFIT,44.52631208,5.06407623,84,Auvergne-Rhône-Alpes,26,DROME,5 - Bourgs ruraux
+26130,Commune de Saint-Paul-Trois-Châteaux - Archives municipales,,Archives,,Archives,SAINT-PAUL-TROIS-CHÂTEAUX,44.34867621,4.76830864,84,Auvergne-Rhône-Alpes,26,DROME,3 - Petites villes
+26200,Communauté D agglomération de Montélimar - Archives Et Patrimoine,,Archives,,Archives,MONTÉLIMAR,44.56273114,4.75330414,84,Auvergne-Rhône-Alpes,26,DROME,2 - Centres urbains intermédiaires
+30300,Commune de Beaucaire - Service des Archives,,Archives,,Archives,BEAUCAIRE,43.80687811,4.64342569,76,Occitanie,30,GARD,2 - Centres urbains intermédiaires
+30900,Archives départementales du Gard,,Archives,,Archives,NÎMES,43.82493051,4.3680087,76,Occitanie,30,GARD,1 - Grands centres urbains
+30900,Commune de Nîmes - Archives municipales,,Archives,,Archives,NÎMES,43.83505037,4.36681284,76,Occitanie,30,GARD,1 - Grands centres urbains
+30200,Commune de Bagnols-Sur-Cèze - Archives municipales,,Archives,,Archives,BAGNOLS-SUR-CÈZE,44.16191562,4.61867612,76,Occitanie,30,GARD,2 - Centres urbains intermédiaires
+36000,Archives départementales de L indre,,Archives,,Archives,CHÂTEAUROUX,46.81433901,1.70647957,24,Centre-Val de Loire,36,INDRE,2 - Centres urbains intermédiaires
+36000,Commune de Châteauroux - Archives municipales,,Archives,,Archives,CHÂTEAUROUX,46.81175893,1.69176521,24,Centre-Val de Loire,36,INDRE,2 - Centres urbains intermédiaires
+41350,Archives Contemporaines Et Foncières,,Archives,,Archives,VINEUIL,47.56711274,1.37982462,24,Centre-Val de Loire,41,LOIR-ET-CHER,4 - Ceintures urbaines
+41100,Communauté D agglomération Terriroire Vendômois - Service des Archives,,Archives,,Archives,VENDÔME,47.792575,1.064805,24,Centre-Val de Loire,41,LOIR-ET-CHER,2 - Centres urbains intermédiaires
+42100,Saint-Etienne Métropole - Service des Archives,,Archives,,Archives,SAINT-ETIENNE,45.44022822,4.39878007,84,Auvergne-Rhône-Alpes,42,LOIRE,1 - Grands centres urbains
+42100,Commune de Saint-Etienne - Archives municipales,,Archives,,Archives,SAINT-ETIENNE,45.4216883,4.40935159,84,Auvergne-Rhône-Alpes,42,LOIRE,1 - Grands centres urbains
+42100,Centre de gestion de la fonction publique territoriale de La Loire - Service des Archives,,Archives,,Archives,SAINT-ETIENNE,45.44025267,4.38306979,84,Auvergne-Rhône-Alpes,42,LOIRE,1 - Grands centres urbains
+42100,Archives départementales de La Loire,,Archives,,Archives,SAINT-ETIENNE,45.45400177,4.38499487,84,Auvergne-Rhône-Alpes,42,LOIRE,1 - Grands centres urbains
+42500,Commune du Chambon-Feugerolles - Archives municipales,,Archives,,Archives,LE_CHAMBON-FEUGEROLLES,45.39585213,4.32350957,84,Auvergne-Rhône-Alpes,42,LOIRE,2 - Centres urbains intermédiaires
+42600,Communauté D agglomération Loire Forez - Service Archives-Documentation,,Archives,,Archives,MONTBRISON,45.60856761,4.06185222,84,Auvergne-Rhône-Alpes,42,LOIRE,2 - Centres urbains intermédiaires
+42600,Antenne de Montbrison,,Archives,,Archives,MONTBRISON,45.60550263,4.06679306,84,Auvergne-Rhône-Alpes,42,LOIRE,2 - Centres urbains intermédiaires
+42300,Roannais Agglomération - Service Archives-Documentation,,Archives,,Archives,ROANNE,46.03559638,4.07104135,84,Auvergne-Rhône-Alpes,42,LOIRE,2 - Centres urbains intermédiaires
+42300,Commune de Roanne - Archives municipales,,Archives,,Archives,ROANNE,46.054515,4.089688,84,Auvergne-Rhône-Alpes,42,LOIRE,2 - Centres urbains intermédiaires
+45200,Commune de Montargis - Archives municipales,,Archives,,Archives,MONTARGIS,48.00149746,2.73361788,24,Centre-Val de Loire,45,LOIRET,2 - Centres urbains intermédiaires
+45100,Commune D orléans - Service des Archives,,Archives,,Archives,ORLÉANS,47.90297091,1.90974845,24,Centre-Val de Loire,45,LOIRET,1 - Grands centres urbains
+45100,Conseil régional du Centre-Val de Loire - Centre de Ressources Documentaires Et D information,,Archives,,Archives,ORLÉANS,47.90080861,1.90961979,24,Centre-Val de Loire,45,LOIRET,1 - Grands centres urbains
+45100,Archives départementales du Loiret - Site des Archives Historiques Et Généalogiques,,Archives,,Archives,ORLÉANS,47.90248255,1.90215585,24,Centre-Val de Loire,45,LOIRET,1 - Grands centres urbains
+45100,Centre des Archives Modernes Et Contemporaines,,Archives,,Archives,ORLÉANS,47.820807,1.926983,24,Centre-Val de Loire,45,LOIRET,1 - Grands centres urbains
+45500,Commune de Gien - Archives municipales,,Archives,,Archives,GIEN,47.697544,2.624489,24,Centre-Val de Loire,45,LOIRET,3 - Petites villes
+45300,Commune de Pithiviers - Service Archives-Documentation,,Archives,,Archives,PITHIVIERS,48.17363232,2.25718469,24,Centre-Val de Loire,45,LOIRET,2 - Centres urbains intermédiaires
+45380,Commune de La Chapelle-Saint-Mesmin - Archives communales,,Archives,,Archives,LA_CHAPELLE-SAINT-MESMIN,47.886484,1.820897,24,Centre-Val de Loire,45,LOIRET,1 - Grands centres urbains
+45430,Commune de Chécy - Archives municipales,,Archives,,Archives,CHÉCY,47.89090783,2.02651119,24,Centre-Val de Loire,45,LOIRET,4 - Ceintures urbaines
+46090,Centre de gestion de la fonction publique territoriale du Lot - Service des Archives,,Archives,,Archives,PRADINES,44.4658653,1.41481052,76,Occitanie,46,LOT,4 - Ceintures urbaines
+46100,Commune de Figeac - Archives communales Postérieures A 1790,,Archives,,Archives,FIGEAC,44.60996241,2.03429156,76,Occitanie,46,LOT,3 - Petites villes
+55100,Communauté D agglomération du Grand Verdun - Service des Archives,,Archives,,Archives,VERDUN,49.15854551,5.38629357,44,Grand Est,55,MEUSE,2 - Centres urbains intermédiaires
+55200,Commune de Commercy - Archives communales,,Archives,,Archives,COMMERCY,48.76382442,5.5914671,44,Grand Est,55,MEUSE,3 - Petites villes
+55200,Centre de gestion de la fonction publique territoriale de La Meuse,,Archives,,Archives,COMMERCY,48.75852849,5.59547037,44,Grand Est,55,MEUSE,3 - Petites villes
+63500,Commune D issoire - Service Archives-Documentation,,Archives,,Archives,ISSOIRE,45.54529812,3.25154199,84,Auvergne-Rhône-Alpes,63,PUY-DE-DOME,2 - Centres urbains intermédiaires
+65000,Archives départementales des Hautes-Pyrénées,,Archives,,Archives,TARBES,43.23427164,0.06947485,76,Occitanie,65,HAUTES-PYRENEES,2 - Centres urbains intermédiaires
+65000,Commune de Tarbes - Archives municipales,,Archives,,Archives,TARBES,43.24085284,0.07427686,76,Occitanie,65,HAUTES-PYRENEES,2 - Centres urbains intermédiaires
+70400,Commune de Héricourt - Service Archives Documentation,,Archives,,Archives,HÉRICOURT,47.57568961,6.75956616,27,Bourgogne-Franche-Comté,70,HAUTE-SAONE,2 - Centres urbains intermédiaires
+38200,Commune de Vienne - Service Commun D archives - Archives municipales de Vienne,,Archives,,Archives,VIENNE,45.52534048,4.87762456,84,Auvergne-Rhône-Alpes,38,ISERE,2 - Centres urbains intermédiaires
+38240,Commune de Meylan - Archives municipales,,Archives,,Archives,MEYLAN,45.21172716,5.78877911,84,Auvergne-Rhône-Alpes,38,ISERE,1 - Grands centres urbains
+38400,Commune de Saint-Martin-D hères - Pôle Archives,,Archives,,Archives,SAINT-MARTIN-D_HÈRES,45.183476,5.755813,84,Auvergne-Rhône-Alpes,38,ISERE,1 - Grands centres urbains
+38400,Centre de gestion de la fonction publique territoriale de L isère - Service Archives Itinérantes,,Archives,,Archives,SAINT-MARTIN-D_HÈRES,45.18795826,5.76833441,84,Auvergne-Rhône-Alpes,38,ISERE,1 - Grands centres urbains
+38090,Communauté D agglomération Porte de L isère - Service Documentation-Archives,,Archives,,Archives,VILLEFONTAINE,45.610717,5.158511,84,Auvergne-Rhône-Alpes,38,ISERE,2 - Centres urbains intermédiaires
+38800,Commune Pont-de-Claix - Service Archives-Documentation,,Archives,,Archives,LE_PONT-DE-CLAIX,45.11625565,5.70021396,84,Auvergne-Rhône-Alpes,38,ISERE,1 - Grands centres urbains
+38500,Communauté D agglomération du Pays Voironnais - Service Archives,,Archives,,Archives,VOIRON,45.36288268,5.59380564,84,Auvergne-Rhône-Alpes,38,ISERE,2 - Centres urbains intermédiaires
+38500,Commune de Voiron - Service Archives Et Documentation,,Archives,,Archives,VOIRON,45.36232356,5.59196917,84,Auvergne-Rhône-Alpes,38,ISERE,2 - Centres urbains intermédiaires
+38430,Commune de Moirans - Service Documentation-Archives,,Archives,,Archives,MOIRANS,45.32560602,5.56298031,84,Auvergne-Rhône-Alpes,38,ISERE,4 - Ceintures urbaines
+39570,Archives départementales du Jura,,Archives,,Archives,MONTMOROT,46.67429262,5.53728614,27,Bourgogne-Franche-Comté,39,JURA,4 - Ceintures urbaines
+39300,Centre de gestion de la fonction publique territoriale du Jura - Service des Archives,,Archives,,Archives,CHAMPAGNOLE,46.74883659,5.90163929,27,Bourgogne-Franche-Comté,39,JURA,3 - Petites villes
+44400,Commune de Rezé - Archives municipales,,Archives,,Archives,REZÉ,47.19188722,-1.5689203,52,Pays de la Loire,44,LOIRE-ATLANTIQUE,1 - Grands centres urbains
+44600,Commune de Saint-Nazaire -  Archives municipales,,Archives,,Archives,SAINT-NAZAIRE,47.27338001,-2.21388748,52,Pays de la Loire,44,LOIRE-ATLANTIQUE,2 - Centres urbains intermédiaires
+44120,Commune de Vertou - Pôle Archives Et Patrimoine,,Archives,,Archives,VERTOU,47.16858073,-1.47305667,52,Pays de la Loire,44,LOIRE-ATLANTIQUE,4 - Ceintures urbaines
+44510,Commune du Pouliguen - Archives municipales,,Archives,,Archives,LE_POULIGUEN,47.2696238,-2.42421607,52,Pays de la Loire,44,LOIRE-ATLANTIQUE,4 - Ceintures urbaines
+48000,Commune de Mende - Service des Archives,,Archives,,Archives,MENDE,44.51837792,3.50140721,76,Occitanie,48,LOZERE,3 - Petites villes
+48000,Archives départementales de La Lozère,,Archives,,Archives,MENDE,44.5174715,3.50550352,76,Occitanie,48,LOZERE,3 - Petites villes
+56100,Lorient Agglomération - Service Archives-Documentation,,Archives,,Archives,LORIENT,47.743926,-3.351726,53,Bretagne,56,MORBIHAN,1 - Grands centres urbains
+56100,Commune de Lorient - Archives municipales,,Archives,,Archives,LORIENT,47.748332,-3.356756,53,Bretagne,56,MORBIHAN,1 - Grands centres urbains
+56300,Commune de Pontivy - Archives municipales,,Archives,,Archives,PONTIVY,48.073602,-2.962442,53,Bretagne,56,MORBIHAN,2 - Centres urbains intermédiaires
+56400,Commune D auray - Archives municipales,,Archives,,Archives,AURAY,47.66509837,-2.98901784,53,Bretagne,56,MORBIHAN,2 - Centres urbains intermédiaires
+58200,Commune de Cosne-Cours-Sur-Loire - Service Archives-Documentation,,Archives,,Archives,COSNE-COURS-SUR-LOIRE,47.41024448,2.92478191,27,Bourgogne-Franche-Comté,58,NIEVRE,3 - Petites villes
+58000,Communauté D agglomération de Nevers - Service des Archives,,Archives,,Archives,NEVERS,46.98770805,3.11864966,27,Bourgogne-Franche-Comté,58,NIEVRE,2 - Centres urbains intermédiaires
+58000,Archives départementales de La Nièvre,,Archives,,Archives,NEVERS,46.99332993,3.16128833,27,Bourgogne-Franche-Comté,58,NIEVRE,2 - Centres urbains intermédiaires
+61000,Commune D alençon - Archives municipales,,Archives,,Archives,ALENÇON,48.43250363,0.08294152,28,Normandie,61,ORNE,2 - Centres urbains intermédiaires
+61000,Archives départementales de L orne,,Archives,,Archives,ALENÇON,48.43705454,0.09608888,28,Normandie,61,ORNE,2 - Centres urbains intermédiaires
+61300,Commune de L aigle - Archives communales,,Archives,,Archives,L_AIGLE,48.76491687,0.62878984,28,Normandie,61,ORNE,3 - Petites villes
+83370,Commune de Fréjus - Archives municipales,,Archives,,Archives,FRÉJUS,43.446288,6.771215,93,Provence-Alpes-Côte d Azur,83,VAR,1 - Grands centres urbains
+83140,Commune de Six-Fours-Les-Plages - Archives municipales,,Archives,,Archives,SIX-FOURS-LES-PLAGES,43.09232453,5.83238815,93,Provence-Alpes-Côte d Azur,83,VAR,1 - Grands centres urbains
+83170,Commune de Brignoles - Archives municipales,,Archives,,Archives,BRIGNOLES,43.40410563,6.06126989,93,Provence-Alpes-Côte d Azur,83,VAR,2 - Centres urbains intermédiaires
+83390,Commune de Cuers - Archives municipales,,Archives,,Archives,CUERS,43.236725,6.07796,93,Provence-Alpes-Côte d Azur,83,VAR,2 - Centres urbains intermédiaires
+83120,Commune de Sainte-Maxime - Service Archives-Documentation,,Archives,,Archives,SAINTE-MAXIME,43.309766,6.640117,93,Provence-Alpes-Côte d Azur,83,VAR,2 - Centres urbains intermédiaires
+83990,Commune de Saint-Tropez - Archives municipales,,Archives,,Archives,SAINT-TROPEZ,43.27117074,6.64095684,93,Provence-Alpes-Côte d Azur,83,VAR,5 - Bourgs ruraux
+93160,Commune de Noisy-Le-Grand - Service Documentation Et Archives,,Archives,,Archives,NOISY-LE-GRAND,48.84874349,2.55296202,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+93700,Commune de Drancy - Archives-Documentation,,Archives,,Archives,DRANCY,48.92374955,2.44526761,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+93600,Commune D aulnay-Sous-Bois - Archives municipales,,Archives,,Archives,AULNAY-SOUS-BOIS,48.93478073,2.49974854,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+93440,Commune de dugny - Archives communales,,Archives,,Archives,DUGNY,48.965624,2.410349,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+93500,Commune de Pantin - Pôle Mémoire Et Patrimoine,,Archives,,Archives,PANTIN,48.89690503,2.40122045,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+93100,Commune de Montreuil - Service Archives,,Archives,,Archives,MONTREUIL,48.86168732,2.44320235,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+93140,Commune de Bondy - Service Documentation-Archives,,Archives,,Archives,BONDY,48.90200069,2.48125176,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+93150,Commune du Blanc-Mesnil - Service des Ressources Documentaires Et du Patrimoine,,Archives,,Archives,LE_BLANC-MESNIL,48.93822429,2.46422404,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+93400,Commune de Saint-Ouen - Service Archives-Documentation-Patrimoine,,Archives,,Archives,SAINT-OUEN-SUR-SEINE,48.91141927,2.3326142,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+93400,Conseil régional D ile-de-France - Service des Archives régionales,,Archives,,Archives,SAINT-OUEN-SUR-SEINE,48.91241966,2.331437,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+93170,Commune de Bagnolet - Service Patrimoine Archives Et Arts Visuels,,Archives,,Archives,BAGNOLET,48.872012,2.418573,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+93380,Commune de Pierrefitte-Sur-Seine - Service Archives-Documentation,,Archives,,Archives,PIERREFITTE-SUR-SEINE,48.96342631,2.35899606,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+93380,Archives Nationales,,Archives,,Archives,PIERREFITTE-SUR-SEINE,48.94807859,2.3649454,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+93000,Archives départementales de La Seine-Saint-denis,,Archives,,Archives,BOBIGNY,48.90269305,2.44526638,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+93000,Commune de Bobigny - Direction des Affaires Juridiques Service Archives communales,,Archives,,Archives,BOBIGNY,48.90618176,2.44504244,11,Île-de-France,93,SEINE-SAINT-DENIS,1 - Grands centres urbains
+73100,Commune D aix-Les-Bains/Grand Lac - Archives municipales,,Archives,,Archives,AIX-LES-BAINS,45.69175182,5.91505906,84,Auvergne-Rhône-Alpes,73,SAVOIE,2 - Centres urbains intermédiaires
+73700,Archives municipales de Bourg-Saint-Maurice Les Arcs,,Archives,,Archives,BOURG-SAINT-MAURICE,45.61878262,6.76960125,84,Auvergne-Rhône-Alpes,73,SAVOIE,3 - Petites villes
+73200,Archives municipales D albertville,,Archives,,Archives,ALBERTVILLE,45.675847,6.392067,84,Auvergne-Rhône-Alpes,73,SAVOIE,2 - Centres urbains intermédiaires
+73000,Communauté D agglomération du Grand Chambéry - Service des Archives,,Archives,,Archives,CHAMBÉRY,45.59885713,5.89675836,84,Auvergne-Rhône-Alpes,73,SAVOIE,1 - Grands centres urbains
+73000,Archives départementales de La Savoie,,Archives,,Archives,CHAMBÉRY,45.56739976,5.93052874,84,Auvergne-Rhône-Alpes,73,SAVOIE,1 - Grands centres urbains
+73000,Archives municipales de Chambéry,,Archives,,Archives,CHAMBÉRY,45.56831346,5.91107372,84,Auvergne-Rhône-Alpes,73,SAVOIE,1 - Grands centres urbains
+76140,Commune du Petit-Quevilly - Service des Archives,,Archives,,Archives,LE_PETIT-QUEVILLY,49.422099,1.06077,28,Normandie,76,SEINE-MARITIME,1 - Grands centres urbains
+76200,Service Archives - Fonds Ancien,,Archives,,Archives,DIEPPE,49.9231782,1.07759919,28,Normandie,76,SEINE-MARITIME,2 - Centres urbains intermédiaires
+76200,Commune de Dieppe - Service Archives,,Archives,,Archives,DIEPPE,49.92286944,1.07762712,28,Normandie,76,SEINE-MARITIME,2 - Centres urbains intermédiaires
+76160,Centre des Archives du Travail Et de L architecture,,Archives,,Archives,DARNÉTAL,49.43792351,1.13776979,28,Normandie,76,SEINE-MARITIME,1 - Grands centres urbains
+76500,Fabrique des Savoirs,,Archives,,Archives,ELBEUF,49.28505027,1.00627231,28,Normandie,76,SEINE-MARITIME,2 - Centres urbains intermédiaires
+76000,Pôle Archives Contemporaines,,Archives,,Archives,ROUEN,49.43505384,1.09308881,28,Normandie,76,SEINE-MARITIME,1 - Grands centres urbains
+76000,Archives départementales de La Seine-Maritime,,Archives,,Archives,ROUEN,49.42644787,1.09626029,28,Normandie,76,SEINE-MARITIME,1 - Grands centres urbains
+76000,Commune de Rouen - Service Archives-Documentation,,Archives,,Archives,ROUEN,49.44298839,1.09972544,28,Normandie,76,SEINE-MARITIME,1 - Grands centres urbains
+76000,Conseil régional de Normandie - Site de Rouen - Service des Archives,,Archives,,Archives,ROUEN,49.4379939,1.10343242,28,Normandie,76,SEINE-MARITIME,1 - Grands centres urbains
+78170,Commune de La Celle-Saint-Cloud - Service Archives Et Patrimoine,,Archives,,Archives,LA_CELLE-SAINT-CLOUD,48.84827978,2.13629574,11,Île-de-France,78,YVELINES,1 - Grands centres urbains
+78150,Commune du Chesnay Rocquencourt - Service des Archives,,Archives,,Archives,LE_CHESNAY-ROCQUENCOURT,48.82651584,2.12535102,11,Île-de-France,78,YVELINES,1 - Grands centres urbains
+78100,Commune de Saint-Germain-En-Laye - Archives municipales,,Archives,,Archives,SAINT-GERMAIN-EN-LAYE,48.89902572,2.09387265,11,Île-de-France,78,YVELINES,1 - Grands centres urbains
+78600,Commune de Maisons-Laffitte - Service Archives-Documentation,,Archives,,Archives,MAISONS-LAFFITTE,48.94598271,2.14520348,11,Île-de-France,78,YVELINES,1 - Grands centres urbains
+78110,Commune du Vésinet - Service des Archives,,Archives,,Archives,LE_VÉSINET,48.89411998,2.13459512,11,Île-de-France,78,YVELINES,1 - Grands centres urbains
+78000,Centre de Gestion de La Grande Couronne de La Région Ile-de-France - Service des Archives,,Archives,,Archives,VERSAILLES,48.79535094,2.14714436,11,Île-de-France,78,YVELINES,1 - Grands centres urbains
+78000,Commune de Versailles - Archives communales,,Archives,,Archives,VERSAILLES,48.80156759,2.13045957,11,Île-de-France,78,YVELINES,1 - Grands centres urbains
+78180,Archives départementales des Yvelines,,Archives,,Archives,MONTIGNY-LE-BRETONNEUX,48.789645,2.045773,11,Île-de-France,78,YVELINES,1 - Grands centres urbains
+78290,Commune de Croissy-Sur-Seine - Archives municipales Et Patrimoine,,Archives,,Archives,CROISSY-SUR-SEINE,48.877448,2.152202,11,Île-de-France,78,YVELINES,1 - Grands centres urbains
+78520,Commune de Limay - Service des Archives,,Archives,,Archives,LIMAY,48.99199663,1.73597846,11,Île-de-France,78,YVELINES,1 - Grands centres urbains
+78280,Commune de Guyancourt - Service des Archives Et du Patrimoine,,Archives,,Archives,GUYANCOURT,48.77087594,2.07040867,11,Île-de-France,78,YVELINES,1 - Grands centres urbains
+78280,Communauté D agglomération de Saint-Quentin-En-Yvelines - Service des Archives,,Archives,,Archives,GUYANCOURT,48.76867134,2.06416062,11,Île-de-France,78,YVELINES,1 - Grands centres urbains
+78190,Commune de Trappes - Service Documentation-Archives,,Archives,,Archives,TRAPPES,48.77610105,1.99905585,11,Île-de-France,78,YVELINES,1 - Grands centres urbains
+78230,Communauté D agglomération Saint-Germain Boucles de Seine - Service des Archives,,Archives,,Archives,LE_PECQ,48.9037,2.115071,11,Île-de-France,78,YVELINES,1 - Grands centres urbains
+78230,Commune du Pecq - Service Documentation-Archives,,Archives,,Archives,LE_PECQ,48.89742343,2.10636557,11,Île-de-France,78,YVELINES,1 - Grands centres urbains
+78530,Commune de Buc - Service Archives-Documentation,,Archives,,Archives,BUC,48.77508209,2.1231766,11,Île-de-France,78,YVELINES,4 - Ceintures urbaines
+78130,Commune des Mureaux - Service des Archives,,Archives,,Archives,LES_MUREAUX,48.99305041,1.90940772,11,Île-de-France,78,YVELINES,2 - Centres urbains intermédiaires
+78160,Commune de Marly-Le-Roi - Archives-Documentation,,Archives,,Archives,MARLY-LE-ROI,48.86766918,2.0968769,11,Île-de-France,78,YVELINES,1 - Grands centres urbains
+83530,Commune de Saint-Raphaël - Archives municipales,,Archives,,Archives,SAINT-RAPHAËL,43.42485093,6.77104036,93,Provence-Alpes-Côte d Azur,83,VAR,1 - Grands centres urbains
+83530,Communauté D agglomération Var Estérel Méditerranée - Service des Archives,,Archives,,Archives,SAINT-RAPHAËL,43.43705852,6.76900922,93,Provence-Alpes-Côte d Azur,83,VAR,1 - Grands centres urbains
+83130,Commune de La Garde - Archives Et Documentation,,Archives,,Archives,LA_GARDE,43.119049,5.99475,93,Provence-Alpes-Côte d Azur,83,VAR,1 - Grands centres urbains
+27950,Commune de Saint-Marcel - Service des Archives,,Archives,,Archives,SAINT-MARCEL,49.09613997,1.44881798,28,Normandie,27,EURE,4 - Ceintures urbaines
+27400,Communauté D agglomération Seine-Eure - Service des Archives,,Archives,,Archives,LOUVIERS,49.23073966,1.17078536,28,Normandie,27,EURE,2 - Centres urbains intermédiaires
+31800,Antenne de Saint-Gaudens,,Archives,,Archives,SAINT-GAUDENS,43.10886102,0.72803423,76,Occitanie,31,HAUTE-GARONNE,2 - Centres urbains intermédiaires
+31000,Archives départementales de La Haute-Garonne,,Archives,,Archives,TOULOUSE,43.58954185,1.46082249,76,Occitanie,31,HAUTE-GARONNE,1 - Grands centres urbains
+31000,Commune de Toulouse - Archives municipales,,Archives,,Archives,TOULOUSE,43.62407987,1.46139982,76,Occitanie,31,HAUTE-GARONNE,1 - Grands centres urbains
+31000,Conseil régional D occitanie - Site de Toulouse - Unité Archives,,Archives,,Archives,TOULOUSE,43.58886417,1.4406929,76,Occitanie,31,HAUTE-GARONNE,1 - Grands centres urbains
+35300,Commune de Fougères - Archives municipales,,Archives,,Archives,FOUGÈRES,48.3477949,-1.19026618,53,Bretagne,35,ILLE-ET-VILAINE,2 - Centres urbains intermédiaires
+35500,Commune de Vitré - Archives municipales,,Archives,,Archives,VITRÉ,48.11795735,-1.19001726,53,Bretagne,35,ILLE-ET-VILAINE,2 - Centres urbains intermédiaires
+35800,Commune de Dinard - Archives municipales,,Archives,,Archives,DINARD,48.62997319,-2.0638266,53,Bretagne,35,ILLE-ET-VILAINE,2 - Centres urbains intermédiaires
+37000,Archives municipales - Section Historique,,Archives,,Archives,TOURS,47.386983,0.674196,24,Centre-Val de Loire,37,INDRE-ET-LOIRE,1 - Grands centres urbains
+37000,Département D indre-Et-Loire,,Archives,,Archives,TOURS,47.39389753,0.69463942,24,Centre-Val de Loire,37,INDRE-ET-LOIRE,1 - Grands centres urbains
+37000,Commune de Tours - Archives municipales - Section Contemporaine,,Archives,,Archives,TOURS,47.39077389,0.68933071,24,Centre-Val de Loire,37,INDRE-ET-LOIRE,1 - Grands centres urbains
+37300,Commune de Joué-Les-Tours - Service Archives-Documentation,,Archives,,Archives,JOUÉ-LÈS-TOURS,47.35114198,0.66124599,24,Centre-Val de Loire,37,INDRE-ET-LOIRE,1 - Grands centres urbains
+37270,Commune de Montlouis-Sur-Loire - Archives municipales,,Archives,,Archives,MONTLOUIS-SUR-LOIRE,47.38826176,0.8277379,24,Centre-Val de Loire,37,INDRE-ET-LOIRE,4 - Ceintures urbaines
