@@ -1,7 +1,8 @@
 # Projet-G6-Culture-chez-nous
 Repo concernant le projet réalisé par le G6 en SID à l'université Paul Sabatier année 2025 sur le thème culture chez nous
 
-Dossier Notebook :
+Dossier Notebook 
+
 	CALCUL_CONCENTRATION.ipynb : Contient les calculs de concentration (de culture) pour les départements et les communes.Viens récupérer les latitude et longitude manquantes et geoshape. 
  
 	Clustering.ipynb : Fait des tests et réalise le clustering, envoie également le fichier.
