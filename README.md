@@ -41,3 +41,8 @@ Ce dossier contient :
   **Commande pour lancer la carte :**
   ```bash
   python -m streamlit run .\carto.py
+
+  ---
+
+### Dossier `Video`
+Contient une vidéo de démonstration de la carte et du dashboard
